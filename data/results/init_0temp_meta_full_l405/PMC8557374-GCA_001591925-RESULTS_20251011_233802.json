@@ -1,0 +1,1 @@
+{"data_accessed": "True", "use_cases": "[\"contig identification\", \"plasmid sequence reconstruction\", \"TblastX search\", \"alignment against a reference plasmid using Mauve\"]", "tools_software": "[\"TblastX\", \"Mauve\"]", "target_key": "GCA_001591925", "pmcid": "PMC8557374"}

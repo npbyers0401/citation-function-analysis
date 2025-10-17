@@ -1,0 +1,1 @@
+{"data_accessed": "True", "use_cases": [{"case": "The assembled genome of Bacillus atrophaeus NBRC 15539 (GCA_001591925) was returned as a result of a BLASTN against the NCBI RefSeq genome database and used to partially reconstruct a novel plasmid labeled pBatNBRC15539†."}], "tools_software": [{"tool": "BlastN"}, {"tool": "TblastX"}, {"tool": "Mauve"}]}

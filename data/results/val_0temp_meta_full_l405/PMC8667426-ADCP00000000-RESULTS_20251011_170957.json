@@ -1,0 +1,1 @@
+{"data_accessed": "True", "use_cases": "[\"obtaining reference genome and annotation file\", \"read alignment to reference genome\", \"gene expression quantification using Stringtie\"]", "tools_software": "[\"Trimmomatic\", \"Bowtie2\", \"Samtools\", \"Stringtie\"]", "target_key": "ADCP00000000", "pmcid": "PMC8667426"}

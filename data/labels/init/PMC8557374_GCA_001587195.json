@@ -1,0 +1,1 @@
+{"data_accessed": "True", "use_cases": [{"case": "The assembled genome of Bacillus licheniformis B4092 (GCA_001587195) was returned as a result of a BLASTN against the NCBI RefSeq genome database and used to partially reconstruct a novel plasmid labeled pBliB4092‡."}], "tools_software": [{"tool": "BlastN"}, {"tool": "TblastX"}, {"tool": "Mauve"}]}

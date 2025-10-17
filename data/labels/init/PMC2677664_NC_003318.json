@@ -1,0 +1,1 @@
+{"data_accessed": "True", "use_cases": [{"case": "The genome of Brucella melitensis 16M chromosome II (NC_003318) was used in a comparitive study of genomes of related Brucella species to identify a probable region the Brucella ovis genome responsible for veterinary pathogenicity."}], "tools_software": [{"tool": "MUMmer"}, {"tool": "COG"}, {"tool": "BLAST"}]}

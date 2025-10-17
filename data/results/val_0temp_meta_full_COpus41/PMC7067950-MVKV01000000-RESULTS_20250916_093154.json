@@ -1,0 +1,1 @@
+{"data_accessed": "True", "use_cases": "[\"Calculated BLAST average nucleotide identity (ANIb) values between Gordonia sp. JH63 and Gordonia sp. strain IITR100 (MVKV01000000) using JSpeciesWS server to assess taxonomic relationships\"]", "tools_software": "[\"JSpeciesWS server\", \"BLAST\"]", "target_key": "MVKV01000000", "pmcid": "PMC7067950"}

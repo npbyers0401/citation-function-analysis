@@ -1,0 +1,1 @@
+{"data_accessed": "True", "use_cases": "[\"comparative best-match blastp searches\", \"identification of conserved protein-coding regions\", \"suffix tree analysis using MUMmer\", \"comparative analysis of genomic features\"]", "tools_software": "[\"BLAST\", \"MUMmer\", \"GLIMMER\"]", "target_key": "NC_003317", "pmcid": "PMC2677664"}

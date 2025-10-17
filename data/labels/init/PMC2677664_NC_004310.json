@@ -1,0 +1,1 @@
+{"data_accessed": "True", "use_cases": [{"case": "The genome of Brucella suis 1330 chromosome I (NC_004310) was used in a comparitive study of genomes of related Brucella species to identify a probable region the Brucella ovis genome responsible for veterinary pathogenicity."}], "tools_software": [{"tool": "MUMmer"}, {"tool": "COG"}, {"tool": "BLAST"}]}

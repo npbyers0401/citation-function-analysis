@@ -1,0 +1,1 @@
+{"data_accessed": "True", "use_cases": "[\"Reference genome for whole-genome alignment\", \"Annotation of genomic features\", \"Query sequence for ISMapper to determine IS256 transposon insertion sites\"]", "tools_software": "[\"ISMapper\", \"SPAdes\", \"Parsnp\", \"BLAST\"]", "target_key": "CP007499", "pmcid": "PMC5932375"}

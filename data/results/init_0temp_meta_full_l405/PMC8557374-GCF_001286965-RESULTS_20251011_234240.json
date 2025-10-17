@@ -1,0 +1,1 @@
+{"data_accessed": "True", "use_cases": "[\"TblastX search against the sequences of the NGS project to identify contigs containing genes sharing similarity with the query plasmids\", \"Reconstruction of plasmid pBamJRS8\u2021 (F8) from identified contigs\"]", "tools_software": "[\"TblastX\"]", "target_key": "GCF_001286965", "pmcid": "PMC8557374"}

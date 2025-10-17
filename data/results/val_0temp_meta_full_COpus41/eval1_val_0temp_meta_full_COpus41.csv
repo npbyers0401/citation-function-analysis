@@ -1,0 +1,547 @@
+﻿pmcid,tk,set,val_type,value,color,score
+PMC10687191,Gs0103597,gs,data_accessed,TRUE,1,0
+PMC10687191,Gs0103597,gs,tools_software,prokka v1.14.6,1,0
+PMC10687191,Gs0103597,gs,use_cases,"Genomic data under GOLD study Gs0103597 was included a bulk download of metagenome-annotated genomes, which was then further annotated for coding regions and function.",1,0
+PMC10687191,Gs0103597,output,data_accessed,TRUE,1,1
+PMC10687191,Gs0103597,output,tools_software,GTDB taxonomy,1,-1
+PMC10687191,Gs0103597,output,tools_software,prokka v1.14.6,1,1
+PMC10687191,Gs0103597,output,use_cases,Annotated MAGs for coding regions and function using prokka v1.14.6,1,1
+PMC10687191,Gs0103597,output,use_cases,Categorized MAGs by ecosystem type metadata to analyze distribution of cphA genes across wastewater treatment contexts,1,0
+PMC10687191,Gs0103597,output,use_cases,Examined metadata limitations and category overlap issues in the GEM dataset for wastewater treatment system classification,1,-1
+PMC10687191,Gs0103597,output,use_cases,Identified genus-level taxonomic classifications of MAGs containing cphA genes using GTDB taxonomy,1,0
+PMC10687191,Gs0103597,output,use_cases,"Searched for cphA genes in 2,627 wastewater-associated MAGs from the GEM dataset to assess prevalence of cyanophycin synthesis function",1,-1
+PMC10762349,CP001672,gs,data_accessed,TRUE,2,0
+PMC10762349,CP001672,gs,tools_software,BLAST,2,-1
+PMC10762349,CP001672,gs,use_cases,The genome of Methylotenera mobilis strain JLW8 (Genbank CP001672.1) was used in a comparative analysis of dehydrogenase and alcohol dehydrogenase genes across several strains of Pectobacterium brasiliense.,2,0
+PMC10762349,CP001672,output,data_accessed,TRUE,2,1
+PMC10762349,CP001672,output,tools_software,NCBI database search function,2,-1
+PMC10762349,CP001672,output,use_cases,comparative analysis of alcohol dehydrogenase gene counts across bacterial species,2,1
+PMC10771365,AE014299,gs,data_accessed,TRUE,1,0
+PMC10771365,AE014299,gs,tools_software,SnapGene,1,0
+PMC10771365,AE014299,gs,use_cases,"The genome of Shewanella oneidensis MR-1 (AE014299) was used in primer design for knockout of genes ackA, pta, acnB, and glts.",1,0
+PMC10771365,AE014299,output,data_accessed,TRUE,1,1
+PMC10771365,AE014299,output,tools_software,SnapGene,1,1
+PMC10771365,AE014299,output,use_cases,"Gene deletion design using genomic coordinates for ackA (SO 2915), pta (SO 2916), and gltS (SO3562) knockout constructs",1,1
+PMC10771365,AE014299,output,use_cases,"Identification and amplification of acnB gene (455,782 to 458,378) for overexpression in itaconic acid production",1,0
+PMC10771365,AE014299,output,use_cases,PCR primer design based on genomic sequences for amplifying upstream and downstream regions (~500 bp) of target genes,1,0
+PMC10771365,CP025534,gs,data_accessed,TRUE,2,-1
+PMC10771365,CP025534,gs,tools_software,SnapGene,2,-1
+PMC10771365,CP025534,gs,use_cases,The genome of Corynebacterium glutamicum HA (CP025534) was used in primer design for knockout of genes NCgl1221 and gdhA.,2,-1
+PMC10771365,CP025534,output,data_accessed,FALSE,2,0
+PMC10883804,CP000802,gs,data_accessed,TRUE,1,0
+PMC10883804,CP000802,gs,tools_software,BLASTp,1,-1
+PMC10883804,CP000802,gs,tools_software,Clustal,1,-1
+PMC10883804,CP000802,gs,tools_software,TMHMM,1,-1
+PMC10883804,CP000802,gs,use_cases,BLASTp was used to find the protein sequence from the P22-like prophage HS1 SieA gene in the Escherichia coli HS genome (CP000802).,1,-1
+PMC10883804,CP000802,gs,use_cases,The Escherichia coli HS genome (CP000802) was used to guide PCR amplification of sequences related to the P22-like prophage HS1 SieA gene.,1,0
+PMC10883804,CP000802,gs,use_cases,The protein sequence from the P22-like prophage HS1 SieA gene in the Escherichia coli HS genome (CP000802) was used as input in the membrane topology prediction of the SieA protein.,1,-1
+PMC10883804,CP000802,gs,use_cases,The protein sequence from the P22-like prophage HS1 SieA gene in the Escherichia coli HS genome (CP000802) was used in a neighbor-joining tree of homologous proteins.,1,-1
+PMC10883804,CP000802,output,data_accessed,TRUE,1,1
+PMC10883804,CP000802,output,use_cases,Chromosomal insertion of amplified HS1 sieA gene into S. enterica galK locus for functional testing of superinfection exclusion,1,0
+PMC10883804,CP000802,output,use_cases,PCR amplification of HS1 sieA gene with 106 bp upstream sequence from E. coli strain HS using locus_tag EcHS_A0321 from accession CP000802,1,1
+PMC10887145,JQJA00000000,gs,data_accessed,TRUE,2,0
+PMC10887145,JQJA00000000,gs,tools_software,ANI/AAI-Matrix,2,0
+PMC10887145,JQJA00000000,gs,tools_software,Anviâ€™o version 7.1,2,0
+PMC10887145,JQJA00000000,gs,tools_software,CheckM,2,0
+PMC10887145,JQJA00000000,gs,tools_software,EzBioCloud 16S RNA database tools,2,-1
+PMC10887145,JQJA00000000,gs,tools_software,IQ-TREE version 2.2.0.3,2,0
+PMC10887145,JQJA00000000,gs,tools_software,NCBI-genome-download version 0.3.0,2,-1
+PMC10887145,JQJA00000000,gs,tools_software,PanGP v.1.0.1,2,0
+PMC10887145,JQJA00000000,gs,tools_software,trimAl version 1.4.1,2,0
+PMC10887145,JQJA00000000,gs,tools_software,TYGS,2,0
+PMC10887145,JQJA00000000,gs,use_cases,The Cobetia amphilecti KMM 296 genome (JQJA00000000) was included in a 16S phylogenetic analysis of all publicly available Cobetia strains and eight newly sequenced strains.,2,0
+PMC10887145,JQJA00000000,gs,use_cases,The Cobetia amphilecti KMM 296 genome (JQJA00000000) was included in a comparative genome content analysis between all publicly available Cobetia strains and eight newly sequenced strains.,2,0
+PMC10887145,JQJA00000000,gs,use_cases,The Cobetia amphilecti KMM 296 genome (JQJA00000000) was used in the construction of a pan-genome for all publicly available Cobetia strains and eight newly sequenced strains.,2,0
+PMC10887145,JQJA00000000,output,data_accessed,TRUE,2,1
+PMC10887145,JQJA00000000,output,tools_software,ANI/AAI-Matrix,2,1
+PMC10887145,JQJA00000000,output,tools_software,Anvi'o,2,1
+PMC10887145,JQJA00000000,output,tools_software,CheckM,2,1
+PMC10887145,JQJA00000000,output,tools_software,COG database,2,-1
+PMC10887145,JQJA00000000,output,tools_software,IQ-TREE,2,1
+PMC10887145,JQJA00000000,output,tools_software,MCL algorithm,2,0
+PMC10887145,JQJA00000000,output,tools_software,NCBI Prokaryotic Genome Annotation Pipeline (PGAP),2,-1
+PMC10887145,JQJA00000000,output,tools_software,PanGP,2,1
+PMC10887145,JQJA00000000,output,tools_software,pyANI,2,0
+PMC10887145,JQJA00000000,output,tools_software,trimAl,2,1
+PMC10887145,JQJA00000000,output,tools_software,TYGS platform,2,1
+PMC10887145,JQJA00000000,output,use_cases,Amino acid identity (AAI) calculation between strains,2,0
+PMC10887145,JQJA00000000,output,use_cases,Average nucleotide identity (ANIm) calculation between KMM 296 and other Cobetia strains,2,0
+PMC10887145,JQJA00000000,output,use_cases,COG functional annotation of core and unique genes,2,0
+PMC10887145,JQJA00000000,output,use_cases,Comparative genome analysis with C. marina JCM 21022T to identify sequence insertions/deletions and chromosomal recombination,2,0
+PMC10887145,JQJA00000000,output,use_cases,Core-genome phylogenetic tree construction using 1432 single-copy genes,2,1
+PMC10887145,JQJA00000000,output,use_cases,Determination of genomic G+C content,2,1
+PMC10887145,JQJA00000000,output,use_cases,Identification of alkaline phosphatase genes in the genome,2,-1
+PMC10887145,JQJA00000000,output,use_cases,Identification of strain-specific singleton genes,2,0
+PMC10887145,JQJA00000000,output,use_cases,In silico DNA-DNA hybridization (dDDH) value calculation,2,0
+PMC10887145,JQJA00000000,output,use_cases,"Pan-genome reconstruction to identify core, shell, and cloud gene clusters across Cobetia strains",2,1
+PMC10887145,JQJA00000000,output,use_cases,Phylogenomic analysis using concatenated single-copy core genes to determine taxonomic position of KMM 296,2,0
+PMC10944094,CP016410,gs,data_accessed,TRUE,1,0
+PMC10944094,CP016410,gs,tools_software,AMRFinderPlus v3.11.4,1,-1
+PMC10944094,CP016410,gs,tools_software,cgMLST V2,1,-1
+PMC10944094,CP016410,gs,tools_software,DisplayR,1,-1
+PMC10944094,CP016410,gs,tools_software,Enterobase,1,0
+PMC10944094,CP016410,gs,tools_software,GrapeTree v1.5.1,1,-1
+PMC10944094,CP016410,gs,tools_software,GraphPad Prism v10.1.0,1,-1
+PMC10944094,CP016410,gs,tools_software,HierCC V1,1,-1
+PMC10944094,CP016410,gs,tools_software,iTOL v6,1,-1
+PMC10944094,CP016410,gs,tools_software,MSTree V2,1,-1
+PMC10944094,CP016410,gs,tools_software,RAxML V8,1,0
+PMC10944094,CP016410,gs,use_cases,The Salmonella enterica Infantis N55391 genome (NZ_CP016410) was used as a reference sequence in core SNP-based phylogenetic analysis of recently sequenced and publicly available Salmonella Infantis genomes.,1,0
+PMC10944094,CP016410,gs,use_cases,The Salmonella enterica Infantis N55391 genome (NZ_CP016410) was used to discover and analyze antibiotic resistance genes and point mutations involved in antimicrobial resistance in Salmonella.,1,-1
+PMC10944094,CP016410,output,data_accessed,TRUE,1,1
+PMC10944094,CP016410,output,tools_software,ABRicate v1.0.1,1,-1
+PMC10944094,CP016410,output,tools_software,Enterobase,1,1
+PMC10944094,CP016410,output,tools_software,RAxML V8,1,1
+PMC10944094,CP016410,output,use_cases,Assessment of pESI-like megaplasmid presence using genes from pN55391 megaplasmid (NZ_CP016411.1) as reference database,1,-1
+PMC10944094,CP016410,output,use_cases,Construction of core SNP-based maximum likelihood phylogenetic tree using N55391 as reference genome,1,1
+PMC10944094,CP016410,output,use_cases,Variant calling to identify 2008 core SNP sites across Chilean Salmonella Infantis genomes using N55391 as reference,1,0
+PMC10944094,CP016411,gs,data_accessed,TRUE,2,0
+PMC10944094,CP016411,gs,tools_software,ABRicate v1.0.1,2,0
+PMC10944094,CP016411,gs,tools_software,AMRFinderPlus v3.11.4,2,-1
+PMC10944094,CP016411,gs,tools_software,DisplayR,2,-1
+PMC10944094,CP016411,gs,tools_software,GrapeTree v1.5.1,2,-1
+PMC10944094,CP016411,gs,tools_software,GraphPad Prism v10.1.0,2,-1
+PMC10944094,CP016411,gs,tools_software,iTOL v6,2,-1
+PMC10944094,CP016411,gs,use_cases,The genome (NZ_CP016411) Salmonella enterica Infantis N55391 plasmid pN55391 was used to build a custom database of pESI-like megaplasmid genes for comparing antibiotic resistance features with the genomes of newly sequenced strains.,2,0
+PMC10944094,CP016411,output,data_accessed,TRUE,2,1
+PMC10944094,CP016411,output,tools_software,ABRicate v1.0.1,2,1
+PMC10944094,CP016411,output,use_cases,Analyzed the variability of antibiotic resistance regions in Chilean pESI-like megaplasmids relative to the pN55391 reference megaplasmid,2,0
+PMC10944094,CP016411,output,use_cases,Created a custom database containing all 315 genes from the pESI-like megaplasmid pN55391 for screening purposes,2,1
+PMC10944094,CP016411,output,use_cases,Identified and mapped the distribution of pESI-like megaplasmid genes across different HC20 clusters to determine cluster-specific associations,2,0
+PMC10944094,CP016411,output,use_cases,Used ABRicate v1.0.1 with the custom pN55391 database to assess the presence of pESI-like megaplasmids in 440 Chilean Salmonella Infantis genome assemblies,2,0
+PMC10978663,CP001654,gs,data_accessed,FALSE,1,0
+PMC10978663,CP001654,output,data_accessed,FALSE,1,1
+PMC11160455,Gm00260,gs,data_accessed,FALSE,2,0
+PMC11160455,Gm00260,output,data_accessed,FALSE,2,1
+PMC11291167,GCF 001887675,gs,data_accessed,FALSE,1,0
+PMC11291167,GCF 001887675,output,data_accessed,FALSE,1,1
+PMC11322120,CP039832,gs,data_accessed,TRUE,2,0
+PMC11322120,CP039832,gs,tools_software,BLAST,2,0
+PMC11322120,CP039832,gs,tools_software,BRIG,2,0
+PMC11322120,CP039832,gs,tools_software,Easyfig,2,0
+PMC11322120,CP039832,gs,tools_software,MEGA 7.1,2,-1
+PMC11322120,CP039832,gs,use_cases,The Aeromonas caviae strain WCW1-2 genome (CP039832) was included in a comparative BLAST analysis of AvGI1-like sequences found in the newly sequenced strains and related Aeromonas strains.,2,0
+PMC11322120,CP039832,gs,use_cases,The Aeromonas caviae strain WCW1-2 genome (CP039832) was used to source mcr-3 sequences for inclusion in a phylogenetic analysis with those sourced from genomes of other strains.,2,-1
+PMC11322120,CP039832,output,data_accessed,TRUE,2,1
+PMC11322120,CP039832,output,tools_software,BLAST,2,1
+PMC11322120,CP039832,output,tools_software,BRIG,2,1
+PMC11322120,CP039832,output,tools_software,Easyfig,2,1
+PMC11322120,CP039832,output,use_cases,Analysis of ARG composition and arrangement within class 1 integrons to identify similarities in gene cassettes between strains,2,0
+PMC11322120,CP039832,output,use_cases,BLAST analysis to identify genomic segments similar to AvGI1 with query coverage >72% and identities >90%,2,1
+PMC11322120,CP039832,output,use_cases,Comparative genomic analysis to identify shared genetic elements including Tn5393 transposon and IS3000 insertion sequence positions relative to class 1 integrons,2,0
+PMC11322120,CP039832,output,use_cases,Generation of Figure 5 showing comparative genetic environments of AvGI1 across multiple Aeromonas strains,2,0
+PMC11322120,CP039832,output,use_cases,"Multiple sequence alignment to compare class 1 integron structures, ORFs, and insertion sequences between A. veronii 0728Q8Av and A. caviae WCW1-2",2,0
+PMC11409719,Gs0063184,gs,data_accessed,TRUE,1,0
+PMC11409719,Gs0063184,gs,tools_software, SAMtools v.1.7-2,1,0
+PMC11409719,Gs0063184,gs,tools_software,BamM v.1.7.3,1,-1
+PMC11409719,Gs0063184,gs,tools_software,BBMap v.38.35,1,0
+PMC11409719,Gs0063184,gs,tools_software,Bowtie 2 v.2.3.4.1,1,-1
+PMC11409719,Gs0063184,gs,tools_software,CoverM v.0.2.0,1,-1
+PMC11409719,Gs0063184,gs,tools_software,FastQC v.0.10.1,1,0
+PMC11409719,Gs0063184,gs,tools_software,Maxbin v.2.2.4,1,0
+PMC11409719,Gs0063184,gs,tools_software,MetaBAT v.0.32.5,1,0
+PMC11409719,Gs0063184,gs,tools_software,MetaBAT2 v.2.12.1,1,0
+PMC11409719,Gs0063184,gs,tools_software,MetaSPAdes v.3.13,1,-1
+PMC11409719,Gs0063184,gs,tools_software,Trimmomatic v.0.36,1,0
+PMC11409719,Gs0063184,gs,tools_software,UniteM v.0.0.15,1,0
+PMC11409719,Gs0063184,gs,use_cases,Metagenomic datasets representing marine microbial communities from Deepwater Horizon Oil Spill were sequenced and deposited in NCBI and under GOLD Study Gs0063184 as part of this study.,1,-1
+PMC11409719,Gs0063184,gs,use_cases,"Metagenomic datasets under GOLD Study Gs0063184, representing microbial communities from the Deepwater Horizon oil spill, were assembled, annotated, and read-mapped to produce metagenome-assembled-genomes (MAGs) that formed the major focus of this study.",1,0
+PMC11409719,Gs0063184,gs,use_cases,"Metagenomic datasets under GOLD Study Gs0063184, representing microbial communities from the Deepwater Horizon oil spill, were mapped to DWH MAGs and non-DWH genomes to determine genome, gene and transcript abundances.",1,0
+PMC11409719,Gs0063184,output,data_accessed,TRUE,1,1
+PMC11409719,Gs0063184,output,tools_software,Anvi'o,1,-1
+PMC11409719,Gs0063184,output,tools_software,Archaeopteryx,1,-1
+PMC11409719,Gs0063184,output,tools_software,BamM,1,1
+PMC11409719,Gs0063184,output,tools_software,blastx,1,-1
+PMC11409719,Gs0063184,output,tools_software,Bowtie2,1,1
+PMC11409719,Gs0063184,output,tools_software,CANT-HYD,1,-1
+PMC11409719,Gs0063184,output,tools_software,CheckM,1,-1
+PMC11409719,Gs0063184,output,tools_software,COG,1,-1
+PMC11409719,Gs0063184,output,tools_software,DIAMOND,1,-1
+PMC11409719,Gs0063184,output,tools_software,GTDB-Tk,1,-1
+PMC11409719,Gs0063184,output,tools_software,HMMER,1,-1
+PMC11409719,Gs0063184,output,tools_software,Maxbin,1,1
+PMC11409719,Gs0063184,output,tools_software,MetaBAT,1,1
+PMC11409719,Gs0063184,output,tools_software,MetaBAT2,1,1
+PMC11409719,Gs0063184,output,tools_software,MetaSPAdes,1,1
+PMC11409719,Gs0063184,output,tools_software,Pfam,1,-1
+PMC11409719,Gs0063184,output,tools_software,Prodigal,1,-1
+PMC11409719,Gs0063184,output,tools_software,RefSeq,1,-1
+PMC11409719,Gs0063184,output,tools_software,SAMtools,1,1
+PMC11409719,Gs0063184,output,tools_software,Sourmash,1,-1
+PMC11409719,Gs0063184,output,tools_software,UniteM,1,1
+PMC11409719,Gs0063184,output,use_cases,Average nucleotide identity (ANI) calculations using Sourmash to assess genomic similarity between MAGs,1,0
+PMC11409719,Gs0063184,output,use_cases,Binning of assembled scaffolds using UniteM with multiple binning methods to produce 12 metagenome-assembled genomes (MAGs),1,0
+PMC11409719,Gs0063184,output,use_cases,Calculation of RPKM values to normalize read recruitment for genome and gene abundance comparisons,1,0
+PMC11409719,Gs0063184,output,use_cases,Comparative genomic analysis between DWH MAGs and 26 related marine genomes to extend findings globally,1,0
+PMC11409719,Gs0063184,output,use_cases,"Functional annotation of predicted genes using Pfam, COG, RefSeq, and CANT-HYD databases",1,-1
+PMC11409719,Gs0063184,output,use_cases,Gene prediction and open reading frame identification in MAGs using Prodigal,1,0
+PMC11409719,Gs0063184,output,use_cases,Mapping of metagenomic reads back to assembled MAGs using Bowtie2 to determine genome abundances,1,1
+PMC11409719,Gs0063184,output,use_cases,Mapping of metatranscriptomic reads to MAGs to assess gene expression levels,1,0
+PMC11409719,Gs0063184,output,use_cases,Metagenomic assembly of Deepwater Horizon plume samples using MetaSPAdes to generate contigs and scaffolds,1,1
+PMC11409719,Gs0063184,output,use_cases,Pangenomic analysis using Anvi'o to identify core genes shared among DWH MAGs,1,-1
+PMC11409719,Gs0063184,output,use_cases,Phylogenetic tree construction using concatenated single-copy marker proteins to identify close relatives,1,0
+PMC11409719,Gs0063184,output,use_cases,Quality assessment of MAGs using CheckM to determine completeness and contamination percentages,1,0
+PMC11409719,Gs0063184,output,use_cases,Taxonomic classification of MAGs using GTDB-Tk with bacterial single-copy marker proteins,1,0
+PMC2877063,NC_002084,gs,data_accessed,TRUE,2,0
+PMC2877063,NC_002084,gs,tools_software,BEAST v.1.4.6,2,0
+PMC2877063,NC_002084,gs,tools_software,Bioedit v 7.0,2,0
+PMC2877063,NC_002084,gs,tools_software,ClustalW,2,0
+PMC2877063,NC_002084,gs,tools_software,CODEML,2,0
+PMC2877063,NC_002084,gs,tools_software,DAMBE v 4.2.13,2,0
+PMC2877063,NC_002084,gs,tools_software,DnaSP v 4.10.9,2,0
+PMC2877063,NC_002084,gs,tools_software,FigTree v1.2.1,2,0
+PMC2877063,NC_002084,gs,tools_software,LogCombiner v1.4.7,2,0
+PMC2877063,NC_002084,gs,tools_software,MacVector,2,0
+PMC2877063,NC_002084,gs,tools_software,MEGA 4.1,2,0
+PMC2877063,NC_002084,gs,tools_software,Modeltest v. 3.7,2,0
+PMC2877063,NC_002084,gs,tools_software,MrBayes v 3.1.1,2,0
+PMC2877063,NC_002084,gs,tools_software,mreps v 2.5,2,0
+PMC2877063,NC_002084,gs,tools_software,PAML 3.15,2,0
+PMC2877063,NC_002084,gs,tools_software,PAUP v 4.0b10,2,0
+PMC2877063,NC_002084,gs,tools_software,Primer3 0.4.0,2,0
+PMC2877063,NC_002084,gs,tools_software,Sequencher 3.0,2,0
+PMC2877063,NC_002084,gs,tools_software,SEQUIN,2,0
+PMC2877063,NC_002084,gs,tools_software,Tracer v1.4,2,0
+PMC2877063,NC_002084,gs,tools_software,TreeAnnotator v1.4.7,2,0
+PMC2877063,NC_002084,gs,tools_software,tRNAscan-SE,2,-1
+PMC2877063,NC_002084,gs,use_cases,The Anopheles gambiae mitochondrial (mtDNA) genome (NC_002084) was included in a molecular dating analysis to estimate the divergence of various Diptera species.,2,0
+PMC2877063,NC_002084,gs,use_cases,The Anopheles gambiae mitochondrial (mtDNA) genome (NC_002084) was included in a phylogenetic analysis of mtDNA sequences from several Diptera species.,2,0
+PMC2877063,NC_002084,gs,use_cases,The Anopheles gambiae mitochondrial (mtDNA) genome (NC_002084) was used as a reference genome for sequence assembly and annotation of the Anopheles darlingi mitochondrial genome.,2,0
+PMC2877063,NC_002084,gs,use_cases,The Anopheles gambiae mitochondrial (mtDNA) genome (NC_002084) was used in a comparison of genome content and structure among several anopheline species.,2,0
+PMC2877063,NC_002084,gs,use_cases,The Anopheles gambiae mitochondrial (mtDNA) genome (NC_002084) was used to guide primer design for PCR amplification of Anopheles darlingi mtDNA.,2,0
+PMC2877063,NC_002084,output,data_accessed,TRUE,2,1
+PMC2877063,NC_002084,output,tools_software,BEAST,2,1
+PMC2877063,NC_002084,output,tools_software,Bioedit,2,1
+PMC2877063,NC_002084,output,tools_software,ClustalW,2,1
+PMC2877063,NC_002084,output,tools_software,CODEML,2,1
+PMC2877063,NC_002084,output,tools_software,DAMBE,2,1
+PMC2877063,NC_002084,output,tools_software,DnaSP,2,1
+PMC2877063,NC_002084,output,tools_software,FigTree,2,1
+PMC2877063,NC_002084,output,tools_software,LogCombiner,2,1
+PMC2877063,NC_002084,output,tools_software,MacVector,2,1
+PMC2877063,NC_002084,output,tools_software,MEGA,2,1
+PMC2877063,NC_002084,output,tools_software,Modeltest,2,1
+PMC2877063,NC_002084,output,tools_software,MrBayes,2,1
+PMC2877063,NC_002084,output,tools_software,mreps,2,1
+PMC2877063,NC_002084,output,tools_software,PAML,2,1
+PMC2877063,NC_002084,output,tools_software,PAUP,2,1
+PMC2877063,NC_002084,output,tools_software,Primer3,2,1
+PMC2877063,NC_002084,output,tools_software,Sequencher,2,1
+PMC2877063,NC_002084,output,tools_software,SEQUIN,2,1
+PMC2877063,NC_002084,output,tools_software,Tracer,2,1
+PMC2877063,NC_002084,output,tools_software,TreeAnnotator,2,1
+PMC2877063,NC_002084,output,use_cases,Calculation of nucleotide composition and base skews across anopheline species,2,0
+PMC2877063,NC_002084,output,use_cases,Calculation of sequence identity percentages between An. darlingi and An. gambiae for individual genes,2,0
+PMC2877063,NC_002084,output,use_cases,Comparative analysis of mtDNA structure and gene organization between An. darlingi and An. gambiae,2,1
+PMC2877063,NC_002084,output,use_cases,Estimation of divergence times between anopheline lineages using Bayesian molecular clock analysis,2,1
+PMC2877063,NC_002084,output,use_cases,"Phylogenetic reconstruction using An. gambiae mtDNA in maximum parsimony, maximum likelihood, and Bayesian analyses",2,1
+PMC2877063,NC_002084,output,use_cases,Primer design for mtDNA amplification based on published An. gambiae sequence,2,1
+PMC2877063,NC_002084,output,use_cases,Sequence alignment and annotation of An. darlingi mtDNA by comparison with An. gambiae,2,1
+PMC2877063,NC_002084,output,use_cases,Testing for positive selection in protein-coding genes using An. gambiae in PAML analysis,2,0
+PMC3599126,CP002933,gs,data_accessed,TRUE,1,0
+PMC3599126,CP002933,gs,use_cases,IGS sequences from the genome of Borrelia afzelii PKo (CP002933) were used as a reference for aligning and comparing ospC gene haplotypes in PCR-amplified DNA sequences.,1,0
+PMC3599126,CP002933,output,data_accessed,TRUE,1,1
+PMC3599126,CP002933,output,tools_software,Bionumerics software,1,-1
+PMC3599126,CP002933,output,use_cases,Determination of IGS type positions based on nucleotide positions 438843-439146 of the PKo reference genome,1,1
+PMC3599126,CP002933,output,use_cases,IGS sequence alignment with B. afzelii PKo reference strain (CP002933) to identify IGS types,1,0
+PMC3599126,CP002933,output,use_cases,ospC sequence alignment with B. afzelii PKo reference strain between positions 17065-17463 to identify ospC types,1,-1
+PMC3599126,CP002934,gs,data_accessed,TRUE,2,0
+PMC3599126,CP002934,gs,use_cases,The ospC gene sequences from Borrelia afzelii PKo plasmid cp26 (CP002934) were used as a reference for aligning and comparing ospC gene haplotypes in PCR-amplified DNA sequences.,2,0
+PMC3599126,CP002934,output,data_accessed,TRUE,2,1
+PMC3599126,CP002934,output,tools_software,Bionumerics software,2,-1
+PMC3599126,CP002934,output,use_cases,Alignment of ospC sequences from tick and erythema migrans samples with B. afzelii PKo reference strain (CP002934) between positions 17065 and 17463,2,0
+PMC3599126,CP002934,output,use_cases,Identification and numbering of ospC sequence types based on nucleotide divergence from aligned sequences,2,1
+PMC3624681,BAON00000000,gs,data_accessed,TRUE,1,0
+PMC3624681,BAON00000000,gs,tools_software,ARAGORN,1,0
+PMC3624681,BAON00000000,gs,tools_software,BLASTp,1,0
+PMC3624681,BAON00000000,gs,tools_software,Glimmer 3.02,1,0
+PMC3624681,BAON00000000,gs,tools_software,RNAmmer,1,0
+PMC3624681,BAON00000000,gs,tools_software,Velvet assembler v1.1.02 ,1,0
+PMC3624681,BAON00000000,gs,use_cases,"BAON00000000 represents the output of the study, as the authors performed whole-genome sequencing, assembly, annotation, and comparative analysis of Gluconobacter thailandicus NBRC 3255 and deposited the resulting data in the GenBank database.",1,0
+PMC3624681,BAON00000000,gs,use_cases,The NBRC3255_0235 operon from the Gluconobacter thailandicus NBRC 3255 genome (BAON00000000) was studied for its role in dihydroxyacetone production from glycerol as a glycerol dehydrogenase.,1,0
+PMC3624681,BAON00000000,output,data_accessed,TRUE,1,1
+PMC3624681,BAON00000000,output,tools_software,ARAGORN,1,1
+PMC3624681,BAON00000000,output,tools_software,BLASTp,1,1
+PMC3624681,BAON00000000,output,tools_software,Glimmer 3.02,1,1
+PMC3624681,BAON00000000,output,tools_software,RNAmmer,1,1
+PMC3624681,BAON00000000,output,tools_software,Velvet assembler v1.1.02,1,1
+PMC3624681,BAON00000000,output,use_cases,Analysis of PQQ domain-containing protein repertoires,1,0
+PMC3624681,BAON00000000,output,use_cases,Comparative genome analysis with Gluconobacter oxydans 621H,1,1
+PMC3624681,BAON00000000,output,use_cases,Deposition of draft genome sequence to DDBJ/EMBL/GenBank under accession BAON00000000,1,1
+PMC3624681,BAON00000000,output,use_cases,Functional annotation of predicted genes using BLASTp against NR database,1,0
+PMC3624681,BAON00000000,output,use_cases,Genome assembly using Velvet assembler v1.1.02 achieving 972Ã— coverage,1,0
+PMC3624681,BAON00000000,output,use_cases,"Genome sequencing using Illumina HiSeq 2000 platform generating 16,059,176 paired-end reads",1,0
+PMC3624681,BAON00000000,output,use_cases,Identification of NADH dehydrogenase genes and operons,1,0
+PMC3624681,BAON00000000,output,use_cases,Identification of paralogous sldAB operons for dihydroxyacetone production,1,0
+PMC3624681,BAON00000000,output,use_cases,Protein-coding gene prediction using Glimmer 3.02 with self-training dataset,1,0
+PMC3624681,BAON00000000,output,use_cases,rRNA gene prediction using RNAmmer,1,0
+PMC3624681,BAON00000000,output,use_cases,tRNA gene prediction using ARAGORN,1,0
+PMC3624681,BAON01000000,gs,data_accessed,TRUE,2,0
+PMC3624681,BAON01000000,gs,tools_software,ARAGORN,2,0
+PMC3624681,BAON01000000,gs,tools_software,BLASTp,2,0
+PMC3624681,BAON01000000,gs,tools_software,Glimmer 3.02,2,0
+PMC3624681,BAON01000000,gs,tools_software,RNAmmer,2,0
+PMC3624681,BAON01000000,gs,tools_software,Velvet assembler v1.1.02 ,2,0
+PMC3624681,BAON01000000,gs,use_cases,"BAON01000000 represents the output of the study, as the authors performed whole-genome sequencing, assembly, annotation, and comparative analysis of Gluconobacter thailandicus NBRC 3255 and deposited the resulting data in the GenBank database.",2,0
+PMC3624681,BAON01000000,gs,use_cases,The NBRC3255_0235 operon from the Gluconobacter thailandicus NBRC 3255 genome (BAON01000000) was studied for its role in dihydroxyacetone production from glycerol as a glycerol dehydrogenase.,2,0
+PMC3624681,BAON01000000,output,data_accessed,TRUE,2,1
+PMC3624681,BAON01000000,output,tools_software,ARAGORN,2,1
+PMC3624681,BAON01000000,output,tools_software,BLASTp,2,1
+PMC3624681,BAON01000000,output,tools_software,Glimmer 3.02,2,1
+PMC3624681,BAON01000000,output,tools_software,RNAmmer,2,1
+PMC3624681,BAON01000000,output,tools_software,Velvet assembler v1.1.02,2,1
+PMC3624681,BAON01000000,output,use_cases,Comparative genome analysis with Gluconobacter oxydans 621H to identify unique genes,2,0
+PMC3624681,BAON01000000,output,use_cases,Deposition of draft genome sequence to DDBJ/EMBL/GenBank under accession BAON00000000,2,1
+PMC3624681,BAON01000000,output,use_cases,Functional annotation of predicted genes using BLASTp against NR database,2,0
+PMC3624681,BAON01000000,output,use_cases,"Gene prediction using Glimmer 3.02 to identify 3,225 protein-coding genes",2,0
+PMC3624681,BAON01000000,output,use_cases,Genome assembly using Velvet assembler v1.1.02 to produce 109 contigs,2,0
+PMC3624681,BAON01000000,output,use_cases,"Genome sequencing using Illumina HiSeq 2000 platform to generate 16,059,176 paired-end reads",2,0
+PMC3624681,BAON01000000,output,use_cases,Identification of paralogous sldAB operons for dihydroxyacetone production,2,1
+PMC3624681,BAON01000000,output,use_cases,rRNA prediction using RNAmmer to identify 3 rRNA genes,2,0
+PMC3624681,BAON01000000,output,use_cases,tRNA prediction using ARAGORN to identify 53 tRNA genes,2,0
+PMC3769271,NC_003279,gs,data_accessed,TRUE,1,0
+PMC3769271,NC_003279,gs,use_cases,The Caenorhabditis elegans chromosome I genome (NC_003279) was used to select sequences related to the expression of KCNL-2 from the WRM063DE08 fosmid for PCR amplification.,1,0
+PMC3769271,NC_003279,output,data_accessed,TRUE,1,1
+PMC3769271,NC_003279,output,tools_software,ABI 3730xl DNA Analyzer software,1,-1
+PMC3769271,NC_003279,output,tools_software,Kyte-Doolittle hydropathy plot algorithm,1,-1
+PMC3769271,NC_003279,output,tools_software,sequence alignment software,1,-1
+PMC3769271,NC_003279,output,use_cases,"Amplification of KCNL-2 channel gene from WRM063DE08 fosmid using three primer pairs to generate fragments of 5,770 bp, 5,774 bp, and 3,294 bp",1,1
+PMC3769271,NC_003279,output,use_cases,Creation of GFP fusion constructs by introducing MluI and SacII restriction sites at initiation sites and stop codons of KCNL-2,1,-1
+PMC3769271,NC_003279,output,use_cases,"Creation of promoter-GFP reporter constructs using 1,951 bp upstream of KCNL-2 initiation sites",1,0
+PMC3769271,NC_003279,output,use_cases,"Generation of four distinct GFP-tagged KCNL-2 constructs (p_kcnl-2_gfp::(atg1)kcnl-2, p_kcnl-2_gfp::(atg2)kcnl-2, p_kcnl-2_kcnl-2(taa1)::gfp, and p_kcnl-2_kcnl-2(taa2)::gfp)",1,0
+PMC3769271,NC_003279,output,use_cases,Hydrophobicity analysis of KCNL-2 primary sequence to identify transmembrane domains,1,-1
+PMC3769271,NC_003279,output,use_cases,Sequence analysis to identify conserved domains between KCNL-2 and mammalian SK channels,1,0
+PMC3769271,NC_003279,output,use_cases,Sequential subcloning of three KCNL-2 fragments into pCR-Blunt II-Topo vector to reconstruct the full-length gene,1,0
+PMC5243788,Gi10103,gs,data_accessed,FALSE,2,0
+PMC5243788,Gi10103,output,data_accessed,FALSE,2,1
+PMC5243788,Gi17558,gs,data_accessed,FALSE,1,0
+PMC5243788,Gi17558,output,data_accessed,FALSE,1,1
+PMC5243788,Gi17776,gs,data_accessed,FALSE,2,0
+PMC5243788,Gi17776,output,data_accessed,FALSE,2,1
+PMC5243788,Gi21891,gs,data_accessed,FALSE,1,0
+PMC5243788,Gi21891,output,data_accessed,FALSE,1,1
+PMC5450952,LK023125,gs,data_accessed,TRUE,2,-1
+PMC5450952,LK023125,gs,tools_software,BLAST,2,-1
+PMC5450952,LK023125,gs,tools_software,KOG (euKaryotic Orthologous Groups),2,-1
+PMC5450952,LK023125,gs,use_cases,"The amino acid sequence of Acanthamoeba castellanii PRMT1 (AcPMRT1) from a cDNA library produced by the authors was aligned against known AcPMRT1 sequences in public reference genomes, including the Plasmodium berghei ANKA genome (LK023125).",2,-1
+PMC5450952,LK023125,output,data_accessed,FALSE,2,0
+PMC7067950,CP047235,gs,data_accessed,TRUE,1,0
+PMC7067950,CP047235,gs,tools_software,BLAST,1,0
+PMC7067950,CP047235,gs,tools_software,HGAP2,1,0
+PMC7067950,CP047235,gs,tools_software,JSpeciesWS,1,0
+PMC7067950,CP047235,gs,tools_software,MUMmer 3.5,1,0
+PMC7067950,CP047235,gs,tools_software,NCBI Prokaryotic Genome Annotation Pipeline 4.10,1,0
+PMC7067950,CP047235,gs,tools_software,NUCmer 3.1,1,0
+PMC7067950,CP047235,gs,tools_software,Quiver,1,0
+PMC7067950,CP047235,gs,tools_software,SMRT Portal 3.2.0,1,0
+PMC7067950,CP047235,gs,use_cases,"The Gordonia sp. JH63 chromosome sequence (CP047235) represents the output of the study, as the authors performed whole-genome sequencing, assembly, annotation, and comparative analysis of Gordonia sp. JH63 and deposited the resulting data in the GenBank database.",1,0
+PMC7067950,CP047235,output,data_accessed,TRUE,1,1
+PMC7067950,CP047235,output,tools_software,BLAST,1,1
+PMC7067950,CP047235,output,tools_software,HGAP2,1,1
+PMC7067950,CP047235,output,tools_software,JSpeciesWS,1,1
+PMC7067950,CP047235,output,tools_software,MUMmer 3.5,1,1
+PMC7067950,CP047235,output,tools_software,NCBI Prokaryotic Genome Annotation Pipeline 4.10,1,1
+PMC7067950,CP047235,output,tools_software,NUCmer 3.1,1,1
+PMC7067950,CP047235,output,tools_software,Quiver,1,1
+PMC7067950,CP047235,output,tools_software,SMRT Analysis 2.3.0,1,0
+PMC7067950,CP047235,output,tools_software,SMRT Portal 3.2.0,1,1
+PMC7067950,CP047235,output,use_cases,Calculation of average nucleotide identity (ANIb) values with related Gordonia genomes,1,0
+PMC7067950,CP047235,output,use_cases,Consensus polishing and error correction using Quiver algorithm,1,0
+PMC7067950,CP047235,output,use_cases,Construction of 20-kb SMRTbell genomic library,1,0
+PMC7067950,CP047235,output,use_cases,De novo genome assembly using HGAP2 workflow,1,0
+PMC7067950,CP047235,output,use_cases,Deposition of complete genome sequence to GenBank database,1,1
+PMC7067950,CP047235,output,use_cases,Extraction of genomic DNA from cultured Gordonia sp. JH63,1,0
+PMC7067950,CP047235,output,use_cases,Gene prediction and annotation using NCBI Prokaryotic Genome Annotation Pipeline,1,0
+PMC7067950,CP047235,output,use_cases,Identification and categorization of cholesterol catabolism genes,1,0
+PMC7067950,CP047235,output,use_cases,Isolation and culture of Gordonia sp. strain JH63 from human skin swab sample,1,0
+PMC7067950,CP047235,output,use_cases,Manual genome closure using overlapped sequence identification,1,0
+PMC7067950,CP047235,output,use_cases,PacBio RS II long-read sequencing of genomic library,1,0
+PMC7067950,CP047236,gs,data_accessed,TRUE,2,0
+PMC7067950,CP047236,gs,tools_software,BLAST,2,-1
+PMC7067950,CP047236,gs,tools_software,HGAP2,2,0
+PMC7067950,CP047236,gs,tools_software,JSpeciesWS,2,-1
+PMC7067950,CP047236,gs,tools_software,MUMmer 3.5,2,0
+PMC7067950,CP047236,gs,tools_software,NCBI Prokaryotic Genome Annotation Pipeline 4.10,2,0
+PMC7067950,CP047236,gs,tools_software,NUCmer 3.1,2,0
+PMC7067950,CP047236,gs,tools_software,Quiver,2,0
+PMC7067950,CP047236,gs,tools_software,SMRT Portal 3.2.0,2,0
+PMC7067950,CP047236,gs,use_cases,"The Gordonia sp. JH63 plasmid pJH63-1 sequence (CP047236) represents the output of the study, as the authors performed whole-genome sequencing, assembly, annotation, and comparative analysis of Gordonia sp. JH63 and deposited the resulting data in the GenBank database.",2,0
+PMC7067950,CP047236,output,data_accessed,TRUE,2,1
+PMC7067950,CP047236,output,tools_software,HGAP2,2,1
+PMC7067950,CP047236,output,tools_software,MUMmer 3.5,2,1
+PMC7067950,CP047236,output,tools_software,NCBI Prokaryotic Genome Annotation Pipeline 4.10,2,1
+PMC7067950,CP047236,output,tools_software,NUCmer 3.1,2,1
+PMC7067950,CP047236,output,tools_software,Quiver,2,1
+PMC7067950,CP047236,output,tools_software,SMRT Analysis 2.3.0,2,0
+PMC7067950,CP047236,output,tools_software,SMRT Portal 3.2.0,2,1
+PMC7067950,CP047236,output,use_cases,De novo assembly of plasmid pJH63-1 sequence using HGAP2 workflow,2,0
+PMC7067950,CP047236,output,use_cases,Deposition of plasmid pJH63-1 complete sequence to GenBank under accession CP047236,2,1
+PMC7067950,CP047236,output,use_cases,Error correction and consensus polishing of plasmid sequence using Quiver algorithm,2,0
+PMC7067950,CP047236,output,use_cases,Gene prediction and annotation of plasmid pJH63-1 identifying 159 CDSs,2,0
+PMC7067950,CP047236,output,use_cases,Manual closure of plasmid sequence using overlapped sequence identification,2,0
+PMC7067950,CP047236,output,use_cases,Sequencing of plasmid pJH63-1 using PacBio RS II platform,2,0
+PMC7067950,LNQO01000000,gs,data_accessed,TRUE,1,0
+PMC7067950,LNQO01000000,gs,tools_software,BLAST,1,0
+PMC7067950,LNQO01000000,gs,tools_software,JSpeciesWS,1,0
+PMC7067950,LNQO01000000,gs,use_cases,The Gordonia sp. SGD-V-85 genome (LNQO01000000) was included in a BLAST average nucleotide identity (ANIb) analysis between the newly sequenced JH63 genome and those of closely related strains.,1,0
+PMC7067950,LNQO01000000,output,data_accessed,TRUE,1,1
+PMC7067950,LNQO01000000,output,tools_software,BLAST,1,1
+PMC7067950,LNQO01000000,output,tools_software,JSpeciesWS,1,1
+PMC7067950,LNQO01000000,output,use_cases,Calculated BLAST average nucleotide identity (ANIb) values between Gordonia sp. JH63 and Gordonia sp. strain SGD-V-85 (LNQO01000000) using JSpeciesWS server to assess taxonomic relationships,1,1
+PMC7067950,LZMP00000000,gs,data_accessed,TRUE,2,0
+PMC7067950,LZMP00000000,gs,tools_software,BLAST,2,0
+PMC7067950,LZMP00000000,gs,tools_software,JSpeciesWS,2,0
+PMC7067950,LZMP00000000,gs,use_cases,The Gordonia sp. UCD-TK1 genome (LZMP00000000) was included in a BLAST average nucleotide identity (ANIb) analysis between the newly sequenced JH63 genome and those of closely related strains.,2,0
+PMC7067950,LZMP00000000,output,data_accessed,TRUE,2,1
+PMC7067950,LZMP00000000,output,tools_software,BLAST,2,1
+PMC7067950,LZMP00000000,output,tools_software,JSpeciesWS server,2,1
+PMC7067950,LZMP00000000,output,use_cases,Calculated BLAST average nucleotide identity (ANIb) values between Gordonia sp. JH63 and Gordonia sp. strain UCD-TK1 using JSpeciesWS server to assess taxonomic relationships,2,1
+PMC7067950,MVKV01000000,gs,data_accessed,TRUE,1,0
+PMC7067950,MVKV01000000,gs,tools_software,BLAST,1,0
+PMC7067950,MVKV01000000,gs,tools_software,JSpeciesWS,1,0
+PMC7067950,MVKV01000000,gs,use_cases,The Gordonia sp. IITR100 genome (MVKV01000000) was included in a BLAST average nucleotide identity (ANIb) analysis between the newly sequenced JH63 genome and those of closely related strains.,1,0
+PMC7067950,MVKV01000000,output,data_accessed,TRUE,1,1
+PMC7067950,MVKV01000000,output,tools_software,BLAST,1,1
+PMC7067950,MVKV01000000,output,tools_software,JSpeciesWS server,1,1
+PMC7067950,MVKV01000000,output,use_cases,Calculated BLAST average nucleotide identity (ANIb) values between Gordonia sp. JH63 and Gordonia sp. strain IITR100 (MVKV01000000) using JSpeciesWS server to assess taxonomic relationships,1,1
+PMC8667426,ADCP00000000,gs,data_accessed,TRUE,2,0
+PMC8667426,ADCP00000000,gs,tools_software,Basic Local Alignment Search Tool,2,0
+PMC8667426,ADCP00000000,gs,tools_software,Bowtie2 v2.3.5.1,2,0
+PMC8667426,ADCP00000000,gs,tools_software,IMG/M,2,0
+PMC8667426,ADCP00000000,gs,tools_software,prepDE.pl,2,0
+PMC8667426,ADCP00000000,gs,tools_software,Samtools v1.9,2,0
+PMC8667426,ADCP00000000,gs,tools_software,Stringtie,2,0
+PMC8667426,ADCP00000000,gs,tools_software,UniProt,2,0
+PMC8667426,ADCP00000000,gs,use_cases,A proteomic analysis was performed on the Bilophila wadsworthia 3_1_6 (NZ_ADCP00000000.2) genome.,2,0
+PMC8667426,ADCP00000000,gs,use_cases,The genome of Bilophila wadsworthia 3_1_6 (NZ_ADCP02000000) was used as a reference sequence for aligning newly sequenced B. wadsworthia 3.1.6 transcriptomes.,2,0
+PMC8667426,ADCP00000000,output,data_accessed,TRUE,2,1
+PMC8667426,ADCP00000000,output,tools_software,BLAST,2,1
+PMC8667426,ADCP00000000,output,tools_software,Bowtie2,2,1
+PMC8667426,ADCP00000000,output,tools_software,IMG/M,2,1
+PMC8667426,ADCP00000000,output,tools_software,prepDE.pl,2,1
+PMC8667426,ADCP00000000,output,tools_software,Samtools,2,1
+PMC8667426,ADCP00000000,output,tools_software,StringTie,2,1
+PMC8667426,ADCP00000000,output,tools_software,Trimmomatic,2,-1
+PMC8667426,ADCP00000000,output,tools_software,UniProt,2,1
+PMC8667426,ADCP00000000,output,use_cases,BLAST searches for protein homology analysis using genome-encoded protein sequences,2,1
+PMC8667426,ADCP00000000,output,use_cases,Gene cluster visualization and annotation for BMC-associated genes,2,0
+PMC8667426,ADCP00000000,output,use_cases,Gene expression quantification and transcript counting using StringTie,2,0
+PMC8667426,ADCP00000000,output,use_cases,Genome mining for identification of BMC shell protein genes and metabolic pathway genes,2,0
+PMC8667426,ADCP00000000,output,use_cases,Proteomic data analysis with reference genome annotations for protein identification,2,0
+PMC8667426,ADCP00000000,output,use_cases,RNA-seq read alignment to reference genome using Bowtie2,2,1
+PMC8703710,AE002161,gs,data_accessed,TRUE,1,0
+PMC8703710,AE002161,gs,tools_software,FigTree v1.4.4,1,-1
+PMC8703710,AE002161,gs,tools_software,PAUP v4.0a,1,0
+PMC8703710,AE002161,gs,tools_software,Phandango v1.3.0,1,-1
+PMC8703710,AE002161,gs,tools_software,RAxML v8.2.12,1,0
+PMC8703710,AE002161,gs,use_cases,The genome of Chlamydophila pneumoniae AR39 (AE002161) was used as the outgroup in several phylogenetic analyses involving various Chlamydia pecorum strains.,1,0
+PMC8703710,AE002161,output,data_accessed,TRUE,1,1
+PMC8703710,AE002161,output,tools_software,PAUP,1,1
+PMC8703710,AE002161,output,tools_software,RAxML,1,1
+PMC8703710,AE002161,output,use_cases,Phylogenetic tree rooting using C. pneumoniae AR39 as an outgroup to establish the evolutionary root position for C. pecorum strains,1,1
+PMC8703710,CP004033,gs,data_accessed,TRUE,2,0
+PMC8703710,CP004033,gs,tools_software,Bedtools v2.30.0,2,0
+PMC8703710,CP004033,gs,tools_software,BLASTn,2,0
+PMC8703710,CP004033,gs,tools_software,Easyfig v2.2.2,2,-1
+PMC8703710,CP004033,gs,tools_software,FigTree v1.4.4,2,0
+PMC8703710,CP004033,gs,tools_software,ggplot2 v3.3.5,2,0
+PMC8703710,CP004033,gs,tools_software,Gubbins algorithm v2.3.4,2,0
+PMC8703710,CP004033,gs,tools_software,Parsnp v1.2,2,0
+PMC8703710,CP004033,gs,tools_software,PAUP v4.0a,2,0
+PMC8703710,CP004033,gs,tools_software,Phandango v1.3.0,2,0
+PMC8703710,CP004033,gs,tools_software,R v4.1.0,2,0
+PMC8703710,CP004033,gs,tools_software,RAxML v8.2.12,2,0
+PMC8703710,CP004033,gs,use_cases,The genome of Chlamydia pecorum PV3056/3 (CP004033) was included in several phylogenetic analyses involving various Chlamydia pecorum strains.,2,0
+PMC8703710,CP004033,gs,use_cases,The genome of Chlamydia pecorum PV3056/3 (CP004033) was used as a reference for read-mapping against the newly resequenced genomes of strains DBDeUG_2018 and MC/MarsBar_2018.,2,0
+PMC8703710,CP004033,gs,use_cases,The genome of Chlamydia pecorum PV3056/3 (CP004033) was used to identify identify regions of recombination among C. pecorum isolate genomes.,2,0
+PMC8703710,CP004033,output,data_accessed,TRUE,2,1
+PMC8703710,CP004033,output,tools_software,Artemis Comparison Tool,2,-1
+PMC8703710,CP004033,output,tools_software,Bedtools,2,1
+PMC8703710,CP004033,output,tools_software,BLASTn,2,1
+PMC8703710,CP004033,output,tools_software,BWA,2,-1
+PMC8703710,CP004033,output,tools_software,Clustal Omega,2,-1
+PMC8703710,CP004033,output,tools_software,DNASp,2,-1
+PMC8703710,CP004033,output,tools_software,FigTree,2,1
+PMC8703710,CP004033,output,tools_software,Geneious Prime,2,-1
+PMC8703710,CP004033,output,tools_software,ggplot2,2,1
+PMC8703710,CP004033,output,tools_software,Gubbins,2,1
+PMC8703710,CP004033,output,tools_software,MAFFT,2,-1
+PMC8703710,CP004033,output,tools_software,Parsnp,2,1
+PMC8703710,CP004033,output,tools_software,PAUP,2,1
+PMC8703710,CP004033,output,tools_software,Phandango,2,1
+PMC8703710,CP004033,output,tools_software,progressiveMauve,2,-1
+PMC8703710,CP004033,output,tools_software,R,2,1
+PMC8703710,CP004033,output,tools_software,RAxML,2,1
+PMC8703710,CP004033,output,use_cases,Comparative genomics analysis between PV3056/3 and other C. pecorum strains to identify SNPs and regions of recombination,2,1
+PMC8703710,CP004033,output,use_cases,Inclusion of PV3056/3 in the 20-genome dataset for phylogenomic reconstruction and core-genome alignment,2,1
+PMC8703710,CP004033,output,use_cases,Read mapping to extract C. pecorum sequences from newly sequenced koala strains DBDeUG_2018 and MC/MarsBar_2018 using PV3056/3 as one of multiple reference genomes,2,1
+PMC8703710,CP004034,gs,data_accessed,TRUE,1,0
+PMC8703710,CP004034,gs,tools_software,Bedtools v2.30.0,1,-1
+PMC8703710,CP004034,gs,tools_software,BLASTn,1,0
+PMC8703710,CP004034,gs,tools_software,Easyfig v2.2.2,1,-1
+PMC8703710,CP004034,gs,tools_software,FigTree v1.4.4,1,0
+PMC8703710,CP004034,gs,tools_software,ggplot2 v3.3.5,1,0
+PMC8703710,CP004034,gs,tools_software,Gubbins algorithm v2.3.4,1,0
+PMC8703710,CP004034,gs,tools_software,Parsnp v1.2,1,0
+PMC8703710,CP004034,gs,tools_software,PAUP v4.0a,1,0
+PMC8703710,CP004034,gs,tools_software,Phandango v1.3.0,1,0
+PMC8703710,CP004034,gs,tools_software,R v4.1.0,1,0
+PMC8703710,CP004034,gs,tools_software,RAxML v8.2.12,1,0
+PMC8703710,CP004034,gs,use_cases,The genome of Chlamydia pecorum W73 (CP004034) was included in several phylogenetic analyses involving various Chlamydia pecorum strains.,1,0
+PMC8703710,CP004034,gs,use_cases,The genome of Chlamydia pecorum W73 (CP004034) was used as a reference for read-mapping against the newly resequenced genomes of strains DBDeUG_2018 and MC/MarsBar_2018.,1,0
+PMC8703710,CP004034,gs,use_cases,The genome of Chlamydia pecorum W73 (CP004034) was used to identify identify regions of recombination among C. pecorum isolate genomes.,1,0
+PMC8703710,CP004034,output,data_accessed,TRUE,1,1
+PMC8703710,CP004034,output,tools_software,Artemis Comparison Tool,1,-1
+PMC8703710,CP004034,output,tools_software,BLASTn,1,1
+PMC8703710,CP004034,output,tools_software,BWA,1,-1
+PMC8703710,CP004034,output,tools_software,Clustal Omega,1,-1
+PMC8703710,CP004034,output,tools_software,FigTree,1,1
+PMC8703710,CP004034,output,tools_software,Geneious Prime,1,-1
+PMC8703710,CP004034,output,tools_software,ggplot2,1,1
+PMC8703710,CP004034,output,tools_software,Gubbins,1,1
+PMC8703710,CP004034,output,tools_software,MAFFT,1,-1
+PMC8703710,CP004034,output,tools_software,Parsnp,1,1
+PMC8703710,CP004034,output,tools_software,PAUP,1,1
+PMC8703710,CP004034,output,tools_software,Phandango,1,1
+PMC8703710,CP004034,output,tools_software,progressiveMauve,1,-1
+PMC8703710,CP004034,output,tools_software,R,1,1
+PMC8703710,CP004034,output,tools_software,RAxML,1,1
+PMC8703710,CP004034,output,use_cases,Comparing W73 genome with koala-derived C. pecorum genomes to assess synteny and sequence variation,1,0
+PMC8703710,CP004034,output,use_cases,Including W73 genome in phylogenetic reconstruction of 20 C. pecorum genomes to determine evolutionary relationships,1,1
+PMC8703710,CP004034,output,use_cases,Including W73 genome in recombination analysis using Gubbins algorithm to identify regions of recombination across C. pecorum genomes,1,1
+PMC8703710,CP004034,output,use_cases,Mapping unmapped sequence reads from koala C. pecorum strains to W73 reference genome to extract additional C. pecorum sequence data for genome assembly,1,1
+PMC8703710,CP004034,output,use_cases,Using W73 genome in core-genome alignment to identify single-nucleotide polymorphisms across C. pecorum strains,1,0
+PMC8703710,CP004035,gs,data_accessed,TRUE,2,0
+PMC8703710,CP004035,gs,tools_software,Bedtools v2.30.0,2,0
+PMC8703710,CP004035,gs,tools_software,FigTree v1.4.4,2,0
+PMC8703710,CP004035,gs,tools_software,ggplot2 v3.3.5,2,0
+PMC8703710,CP004035,gs,tools_software,Gubbins algorithm v2.3.4,2,0
+PMC8703710,CP004035,gs,tools_software,Parsnp v1.2,2,0
+PMC8703710,CP004035,gs,tools_software,PAUP v4.0a,2,0
+PMC8703710,CP004035,gs,tools_software,Phandango v1.3.0,2,0
+PMC8703710,CP004035,gs,tools_software,R v4.1.0,2,0
+PMC8703710,CP004035,gs,tools_software,RAxML v8.2.12,2,0
+PMC8703710,CP004035,gs,use_cases,The genome of Chlamydia pecorum P787 (CP004035) was included in several phylogenetic analyses involving various Chlamydia pecorum strains.,2,0
+PMC8703710,CP004035,gs,use_cases,The genome of Chlamydia pecorum P787 (CP004035) was used as a reference for read-mapping against the newly resequenced genomes of strains DBDeUG_2018 and MC/MarsBar_2018.,2,0
+PMC8703710,CP004035,gs,use_cases,The genome of Chlamydia pecorum P787 (CP004035) was used to identify identify regions of recombination among C. pecorum isolate genomes.,2,0
+PMC8703710,CP004035,output,data_accessed,TRUE,2,1
+PMC8703710,CP004035,output,tools_software,Bedtools,2,1
+PMC8703710,CP004035,output,tools_software,BLASTn,2,-1
+PMC8703710,CP004035,output,tools_software,BWA,2,-1
+PMC8703710,CP004035,output,tools_software,Clustal Omega,2,-1
+PMC8703710,CP004035,output,tools_software,DNASp,2,-1
+PMC8703710,CP004035,output,tools_software,FigTree,2,1
+PMC8703710,CP004035,output,tools_software,Geneious Prime,2,-1
+PMC8703710,CP004035,output,tools_software,ggplot2,2,1
+PMC8703710,CP004035,output,tools_software,Gubbins,2,1
+PMC8703710,CP004035,output,tools_software,MAFFT,2,-1
+PMC8703710,CP004035,output,tools_software,Parsnp,2,1
+PMC8703710,CP004035,output,tools_software,PAUP,2,1
+PMC8703710,CP004035,output,tools_software,Phandango,2,1
+PMC8703710,CP004035,output,tools_software,progressiveMauve,2,-1
+PMC8703710,CP004035,output,tools_software,R,2,1
+PMC8703710,CP004035,output,tools_software,RAxML,2,1
+PMC8703710,CP004035,output,use_cases,Including P787 in comparative genomics analyses to identify regions of recombination across C. pecorum strains,2,1
+PMC8703710,CP004035,output,use_cases,Mapping sequence reads to P787 reference genome to extract C. pecorum-specific sequences from raw sequencing data,2,1
+PMC8703710,CP004035,output,use_cases,Using P787 as part of a multi-genome dataset for phylogenetic reconstruction and core-genome alignment,2,1
+PMC8703710,CP004035,output,use_cases,Using P787 in SNP calling and pair-wise distance calculations relative to reference genome E58,2,0

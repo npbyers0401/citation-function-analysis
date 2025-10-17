@@ -1,0 +1,15 @@
+{
+    "run_name": "init_0temp_meta_full_l405",
+    "model_type": "l405",
+    "four_bit_quant": true,
+    "eight_bit_quant": false,
+
+    "system_prompt" : "You are an expert in computational biology with a specialization in genomics. You are a helpful assistant and you seek to aid others in processing and understanding specialized scientific articles. You are a specialist in reading scientific studies and breaking down the experiments they describe so that you can explain the experiments to others. Your answers are concise and you assume that your audience shares specific graduate-level knowledge of your field.",
+
+    "key_pair_dir":  "./data/key_pairs/training_pairs.csv",
+    "key_meta_dir":  "./data/key_metadata/prompt_endpoint_static_INITIAL.csv",
+
+    "do_sample" : false,
+    "top_p" : null,
+    "temperature" : 0
+}

@@ -1,0 +1,1 @@
+{"data_accessed": "True", "use_cases": [{"case": "The assembled genome of Bacillus subtilis JRS2 (GCA_001286845) was returned as a result of a BLASTN against the NCBI RefSeq genome database and used to partially reconstruct a novel plasmid labeled pBsuJRS2‡."}], "tools_software": [{"tool": "BlastN"}, {"tool": "TblastX"}, {"tool": "Mauve"}]}

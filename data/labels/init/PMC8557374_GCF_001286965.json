@@ -1,0 +1,1 @@
+{"data_accessed": "True", "use_cases": [{"case": "The assembled genome of Bacillus amyloliquefaciens JRS8 (GCF_001286965) was returned as a result of a BLASTN against the NCBI RefSeq genome database and used to partially reconstruct a novel plasmid labeled pBamJRS8‡."}], "tools_software": [{"tool": "BlastN"}, {"tool": "TblastX"}, {"tool": "Mauve"}]}

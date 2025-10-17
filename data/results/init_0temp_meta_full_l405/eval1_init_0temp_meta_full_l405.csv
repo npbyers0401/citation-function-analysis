@@ -1,0 +1,809 @@
+﻿pmcid,tk,set,val_type,value,color,score
+PMC2677664,NC_003317,gs,data_accessed,TRUE,1,0
+PMC2677664,NC_003317,gs,tools_software,BLAST,1,0
+PMC2677664,NC_003317,gs,tools_software,COG,1,-1
+PMC2677664,NC_003317,gs,tools_software,MUMmer,1,0
+PMC2677664,NC_003317,gs,use_cases,The genome of Brucella melitensis 16M chromosome I (NC_003317) was used in a comparitive study of genomes of related Brucella species to identify a probable region the Brucella ovis genome responsible for veterinary pathogenicity.,1,0
+PMC2677664,NC_003317,output,data_accessed,TRUE,1,1
+PMC2677664,NC_003317,output,tools_software,BLAST,1,1
+PMC2677664,NC_003317,output,tools_software,GLIMMER,1,-1
+PMC2677664,NC_003317,output,tools_software,MUMmer,1,1
+PMC2677664,NC_003317,output,use_cases,comparative analysis of genomic features,1,1
+PMC2677664,NC_003317,output,use_cases,comparative best-match blastp searches,1,0
+PMC2677664,NC_003317,output,use_cases,identification of conserved protein-coding regions,1,0
+PMC2677664,NC_003317,output,use_cases,suffix tree analysis using MUMmer,1,0
+PMC2677664,NC_003318,gs,data_accessed,TRUE,2,0
+PMC2677664,NC_003318,gs,tools_software,BLAST,2,0
+PMC2677664,NC_003318,gs,tools_software,COG,2,-1
+PMC2677664,NC_003318,gs,tools_software,MUMmer,2,0
+PMC2677664,NC_003318,gs,use_cases,The genome of Brucella melitensis 16M chromosome II (NC_003318) was used in a comparitive study of genomes of related Brucella species to identify a probable region the Brucella ovis genome responsible for veterinary pathogenicity.,2,0
+PMC2677664,NC_003318,output,data_accessed,TRUE,2,1
+PMC2677664,NC_003318,output,tools_software,BLAST,2,1
+PMC2677664,NC_003318,output,tools_software,GLIMMER,2,-1
+PMC2677664,NC_003318,output,tools_software,MUMmer,2,1
+PMC2677664,NC_003318,output,use_cases,comparative analysis of genomic features,2,1
+PMC2677664,NC_003318,output,use_cases,comparative best-match blastp searches,2,0
+PMC2677664,NC_003318,output,use_cases,identification of conserved protein-coding regions,2,0
+PMC2677664,NC_003318,output,use_cases,suffix tree analysis using MUMmer,2,0
+PMC2677664,NC_004310,gs,data_accessed,TRUE,1,0
+PMC2677664,NC_004310,gs,tools_software,BLAST,1,0
+PMC2677664,NC_004310,gs,tools_software,COG,1,-1
+PMC2677664,NC_004310,gs,tools_software,MUMmer,1,0
+PMC2677664,NC_004310,gs,use_cases,The genome of Brucella suis 1330 chromosome I (NC_004310) was used in a comparitive study of genomes of related Brucella species to identify a probable region the Brucella ovis genome responsible for veterinary pathogenicity.,1,0
+PMC2677664,NC_004310,output,data_accessed,TRUE,1,1
+PMC2677664,NC_004310,output,tools_software,BLASTN,1,0
+PMC2677664,NC_004310,output,tools_software,BLASTP,1,1
+PMC2677664,NC_004310,output,tools_software,GLIMMER,1,-1
+PMC2677664,NC_004310,output,tools_software,MUMmer,1,1
+PMC2677664,NC_004310,output,use_cases,blastn searches for gene presence/absence analysis,1,1
+PMC2677664,NC_004310,output,use_cases,comparative best-match blastp searches,1,0
+PMC2677664,NC_004310,output,use_cases,gradient figures for genome comparison,1,0
+PMC2677664,NC_004310,output,use_cases,identification of species-specific differences,1,0
+PMC2677664,NC_004310,output,use_cases,MUMmer analysis for nucleotide-level genome comparison,1,0
+PMC2677664,NC_004311,gs,data_accessed,TRUE,2,0
+PMC2677664,NC_004311,gs,tools_software,BLAST,2,0
+PMC2677664,NC_004311,gs,tools_software,COG,2,-1
+PMC2677664,NC_004311,gs,tools_software,MUMmer,2,0
+PMC2677664,NC_004311,gs,use_cases,The genome of Brucella suis 1330 chromosome II (NC_004311) was used in a comparitive study of genomes of related Brucella species to identify a probable region the Brucella ovis genome responsible for veterinary pathogenicity.,2,0
+PMC2677664,NC_004311,output,data_accessed,TRUE,2,1
+PMC2677664,NC_004311,output,tools_software,BLAST,2,1
+PMC2677664,NC_004311,output,tools_software,MUMmer,2,1
+PMC2677664,NC_004311,output,use_cases,comparative genomics using MUMmer to identify similarities and differences between B. ovis and B. suis 1330 at the nucleotide level,2,1
+PMC2677664,NC_004311,output,use_cases,identification of genomic regions missing from B. ovis relative to B. suis 1330,2,0
+PMC2677664,NC_004311,output,use_cases,identification of protein-coding genes shared between B. ovis and B. suis 1330 using best-match blastp searches,2,0
+PMC2677664,NC_007618,gs,data_accessed,TRUE,1,0
+PMC2677664,NC_007618,gs,tools_software,BLAST,1,0
+PMC2677664,NC_007618,gs,tools_software,COG,1,-1
+PMC2677664,NC_007618,gs,tools_software,MUMmer,1,0
+PMC2677664,NC_007618,gs,use_cases,The genome of Brucella abortus 2308 chromosome I (NC_007618) was used in a comparitive study of genomes of related Brucella species to identify a probable region the Brucella ovis genome responsible for veterinary pathogenicity.,1,0
+PMC2677664,NC_007618,output,data_accessed,TRUE,1,1
+PMC2677664,NC_007618,output,tools_software,BLAST,1,1
+PMC2677664,NC_007618,output,tools_software,GLIMMER,1,-1
+PMC2677664,NC_007618,output,tools_software,MUMmer,1,1
+PMC2677664,NC_007618,output,use_cases,comparative analysis of pseudogene content,1,0
+PMC2677664,NC_007618,output,use_cases,comparative best-match blastp searches,1,0
+PMC2677664,NC_007618,output,use_cases,identification of protein-coding genes shared with Brucella ovis,1,0
+PMC2677664,NC_007618,output,use_cases,identification of protein-coding genes unique to Brucella abortus 2308,1,0
+PMC2677664,NC_007618,output,use_cases,whole-genome comparisons using MUMmer,1,1
+PMC2677664,NC_007624,gs,data_accessed,TRUE,2,0
+PMC2677664,NC_007624,gs,tools_software,BLAST,2,0
+PMC2677664,NC_007624,gs,tools_software,COG,2,-1
+PMC2677664,NC_007624,gs,tools_software,MUMmer,2,0
+PMC2677664,NC_007624,gs,use_cases,The genome of Brucella abortus 2308 chromosome II (NC_007624) was used in a comparitive study of genomes of related Brucella species to identify a probable region the Brucella ovis genome responsible for veterinary pathogenicity.,2,0
+PMC2677664,NC_007624,output,data_accessed,TRUE,2,1
+PMC2677664,NC_007624,output,tools_software,BLAST,2,1
+PMC2677664,NC_007624,output,tools_software,GLIMMER,2,-1
+PMC2677664,NC_007624,output,tools_software,MUMmer,2,1
+PMC2677664,NC_007624,output,use_cases,comparative analysis of pseudogene content,2,0
+PMC2677664,NC_007624,output,use_cases,comparative best-match blastp searches,2,0
+PMC2677664,NC_007624,output,use_cases,identification of protein-coding genes shared with Brucella ovis,2,0
+PMC2677664,NC_007624,output,use_cases,identification of protein-coding genes unique to Brucella abortus 2308,2,0
+PMC2677664,NC_007624,output,use_cases,whole-genome comparisons using MUMmer,2,1
+PMC2677664,NC_009504,gs,data_accessed,TRUE,1,0
+PMC2677664,NC_009504,gs,tools_software,BLAST,1,0
+PMC2677664,NC_009504,gs,tools_software,COG,1,-1
+PMC2677664,NC_009504,gs,tools_software,GLIMMER,1,0
+PMC2677664,NC_009504,gs,tools_software,MUMmer,1,0
+PMC2677664,NC_009504,gs,use_cases,The genome of Brucella ovis ATCC 25840 chromosome II (NC_009504) was sequenced and deposited in GenBank as part of this study.,1,0
+PMC2677664,NC_009504,gs,use_cases,The genome of Brucella ovis ATCC 25840 chromosome II (NC_009504) was used in a comparitive study of genomes of related Brucella species to identify a probable region of the Brucella ovis genome responsible for veterinary pathogenicity.,1,0
+PMC2677664,NC_009504,output,data_accessed,TRUE,1,1
+PMC2677664,NC_009504,output,tools_software,BLAST,1,1
+PMC2677664,NC_009504,output,tools_software,GLIMMER,1,1
+PMC2677664,NC_009504,output,tools_software,HMM,1,-1
+PMC2677664,NC_009504,output,tools_software,MUMmer,1,1
+PMC2677664,NC_009504,output,use_cases,comparative analysis of gene sets using BLAST and HMM searches,1,0
+PMC2677664,NC_009504,output,use_cases,comparative genomic analysis using MUMmer,1,1
+PMC2677664,NC_009504,output,use_cases,determination of paralogous gene families,1,0
+PMC2677664,NC_009504,output,use_cases,functional assignment and annotation,1,0
+PMC2677664,NC_009504,output,use_cases,gap closure using primer walking and transposon-tagged libraries,1,0
+PMC2677664,NC_009504,output,use_cases,gene prediction using GLIMMER,1,0
+PMC2677664,NC_009504,output,use_cases,genome assembly,1,0
+PMC2677664,NC_009504,output,use_cases,identification of membrane-spanning domains,1,0
+PMC2677664,NC_009504,output,use_cases,whole-genome shotgun sequencing,1,1
+PMC2677664,NC_009504,output,use_cases,Ï‡2 analysis of 3-mer composition,1,0
+PMC2677664,NC_009505,gs,data_accessed,TRUE,2,0
+PMC2677664,NC_009505,gs,tools_software,BLAST,2,0
+PMC2677664,NC_009505,gs,tools_software,COG,2,-1
+PMC2677664,NC_009505,gs,tools_software,GLIMMER,2,0
+PMC2677664,NC_009505,gs,tools_software,MUMmer,2,0
+PMC2677664,NC_009505,gs,use_cases,The genome of Brucella ovis ATCC 25840 chromosome I (NC_009505) was sequenced and deposited in GenBank as part of this study.,2,0
+PMC2677664,NC_009505,gs,use_cases,The genome of Brucella ovis ATCC 25840 chromosome I (NC_009505) was used in a comparitive study of genomes of related Brucella species to identify a probable region of the Brucella ovis genome responsible for veterinary pathogenicity.,2,0
+PMC2677664,NC_009505,output,data_accessed,TRUE,2,1
+PMC2677664,NC_009505,output,tools_software,BLAST,2,1
+PMC2677664,NC_009505,output,tools_software,GLIMMER,2,1
+PMC2677664,NC_009505,output,tools_software,HMM,2,-1
+PMC2677664,NC_009505,output,tools_software,MUMmer,2,1
+PMC2677664,NC_009505,output,use_cases,comparative analysis with other Brucella genomes using BLAST,2,1
+PMC2677664,NC_009505,output,use_cases,comparative analysis with other Brucella genomes using HMM paralogous family searches,2,0
+PMC2677664,NC_009505,output,use_cases,comparative analysis with other Brucella genomes using MUMmer,2,0
+PMC2677664,NC_009505,output,use_cases,determination of paralogous gene families,2,0
+PMC2677664,NC_009505,output,use_cases,functional assignment of predicted genes,2,0
+PMC2677664,NC_009505,output,use_cases,GenBank deposition for data preservation and access,2,0
+PMC2677664,NC_009505,output,use_cases,gene prediction using GLIMMER,2,0
+PMC2677664,NC_009505,output,use_cases,genome assembly,2,0
+PMC2677664,NC_009505,output,use_cases,identification of membrane-spanning domains,2,0
+PMC2677664,NC_009505,output,use_cases,PCR primer design for verification of B. ovis-specific island,2,-1
+PMC2677664,NC_009505,output,use_cases,whole-genome shotgun sequencing,2,1
+PMC2677664,NC_009505,output,use_cases,Ï‡2 analysis of 3-mer composition,2,0
+PMC3387794,CP003096,gs,data_accessed,TRUE,1,0
+PMC3387794,CP003096,gs,tools_software,BLAST,1,0
+PMC3387794,CP003096,gs,tools_software,Consed,1,0
+PMC3387794,CP003096,gs,tools_software,Dupfinisher,1,0
+PMC3387794,CP003096,gs,tools_software,gapResolution,1,0
+PMC3387794,CP003096,gs,tools_software,GenePRIMP,1,0
+PMC3387794,CP003096,gs,tools_software,Newbler version 2.0.00.20-PostRelease-11-05-2008,1,0
+PMC3387794,CP003096,gs,tools_software,phrap version SPS - 4.24,1,0
+PMC3387794,CP003096,gs,tools_software,Polisher,1,0
+PMC3387794,CP003096,gs,tools_software,Prodigal,1,0
+PMC3387794,CP003096,gs,tools_software,Rfam,1,0
+PMC3387794,CP003096,gs,tools_software,RNAMMer,1,0
+PMC3387794,CP003096,gs,tools_software,signalP,1,0
+PMC3387794,CP003096,gs,tools_software,TMHMM,1,0
+PMC3387794,CP003096,gs,tools_software,tRNAscan-SE,1,0
+PMC3387794,CP003096,gs,tools_software,Velvet version 1.0.13,1,0
+PMC3387794,CP003096,gs,use_cases,"The chromosome (CP003096) of Thermovirga lienii type strain Cas60314 was sequenced, characterized, and deposited in GenBank as part of this study.",1,0
+PMC3387794,CP003096,gs,use_cases,The sequence of Thermovirga lienii type strain Cas60314 chromosome (CP003096) was used in a phylogenetic analysis with the phylum Synergistetes.,1,0
+PMC3387794,CP003096,output,data_accessed,TRUE,1,1
+PMC3387794,CP003096,output,tools_software,BLAST,1,1
+PMC3387794,CP003096,output,tools_software,Consed,1,1
+PMC3387794,CP003096,output,tools_software,Dupfinisher,1,1
+PMC3387794,CP003096,output,tools_software,GapResolution,1,1
+PMC3387794,CP003096,output,tools_software,GenePRIMP,1,1
+PMC3387794,CP003096,output,tools_software,Newbler,1,1
+PMC3387794,CP003096,output,tools_software,Phrap,1,1
+PMC3387794,CP003096,output,tools_software,Polisher,1,1
+PMC3387794,CP003096,output,tools_software,Prodigal,1,1
+PMC3387794,CP003096,output,tools_software,Rfam,1,1
+PMC3387794,CP003096,output,tools_software,RNAMMer,1,1
+PMC3387794,CP003096,output,tools_software,SignalP,1,1
+PMC3387794,CP003096,output,tools_software,TMHMM,1,1
+PMC3387794,CP003096,output,tools_software,tRNAscan-SE,1,1
+PMC3387794,CP003096,output,tools_software,Velvet,1,1
+PMC3387794,CP003096,output,use_cases,Functional categorization,1,0
+PMC3387794,CP003096,output,use_cases,Gap closure,1,0
+PMC3387794,CP003096,output,use_cases,Gene annotation,1,0
+PMC3387794,CP003096,output,use_cases,Gene prediction,1,0
+PMC3387794,CP003096,output,use_cases,Genome assembly,1,1
+PMC3387794,CP003096,output,use_cases,Genome feature extraction,1,0
+PMC3387794,CP003096,output,use_cases,Genome finishing,1,0
+PMC3387794,CP003096,output,use_cases,Genome map creation,1,0
+PMC3387794,CP003096,output,use_cases,Genome quality assessment,1,0
+PMC3387794,CP003096,output,use_cases,Genome submission to public databases,1,0
+PMC3387794,CP003096,output,use_cases,Sequence alignment for phylogenetic analysis,1,1
+PMC3387794,CP003096,output,use_cases,Sequence error correction,1,0
+PMC3387794,CP003097,gs,data_accessed,TRUE,2,0
+PMC3387794,CP003097,gs,tools_software,BLAST,2,-1
+PMC3387794,CP003097,gs,tools_software,Consed,2,-1
+PMC3387794,CP003097,gs,tools_software,Dupfinisher,2,-1
+PMC3387794,CP003097,gs,tools_software,gapResolution,2,-1
+PMC3387794,CP003097,gs,tools_software,GenePRIMP,2,0
+PMC3387794,CP003097,gs,tools_software,Newbler version 2.0.00.20-PostRelease-11-05-2008,2,0
+PMC3387794,CP003097,gs,tools_software,phrap version SPS - 4.24,2,0
+PMC3387794,CP003097,gs,tools_software,Polisher,2,0
+PMC3387794,CP003097,gs,tools_software,Prodigal,2,0
+PMC3387794,CP003097,gs,tools_software,Rfam,2,0
+PMC3387794,CP003097,gs,tools_software,RNAMMer,2,0
+PMC3387794,CP003097,gs,tools_software,signalP,2,0
+PMC3387794,CP003097,gs,tools_software,TMHMM,2,0
+PMC3387794,CP003097,gs,tools_software,tRNAscan-SE,2,0
+PMC3387794,CP003097,gs,tools_software,Velvet version 1.0.13,2,0
+PMC3387794,CP003097,gs,use_cases,"The plasmid (CP003097) of Thermovirga lienii type strain Cas60314 was sequenced, characterized, and deposited in GenBank as part of this study.",2,0
+PMC3387794,CP003097,gs,use_cases,The sequence of Thermovirga lienii type strain Cas60314 chromosome (CP003097) was used in a phylogenetic analysis with the phylum Synergistetes.,2,-1
+PMC3387794,CP003097,output,data_accessed,TRUE,2,1
+PMC3387794,CP003097,output,tools_software,GenePRIMP,2,1
+PMC3387794,CP003097,output,tools_software,Newbler,2,1
+PMC3387794,CP003097,output,tools_software,phrap,2,1
+PMC3387794,CP003097,output,tools_software,Polisher,2,1
+PMC3387794,CP003097,output,tools_software,Prodigal,2,1
+PMC3387794,CP003097,output,tools_software,Rfam,2,1
+PMC3387794,CP003097,output,tools_software,RNAMMer,2,1
+PMC3387794,CP003097,output,tools_software,signalP,2,1
+PMC3387794,CP003097,output,tools_software,TMHMM,2,1
+PMC3387794,CP003097,output,tools_software,tRNAscan-SE,2,1
+PMC3387794,CP003097,output,tools_software,Velvet,2,1
+PMC3387794,CP003097,output,use_cases,calculation of genome statistics,2,0
+PMC3387794,CP003097,output,use_cases,gene calling,2,0
+PMC3387794,CP003097,output,use_cases,gene function prediction,2,0
+PMC3387794,CP003097,output,use_cases,genome annotation,2,0
+PMC3387794,CP003097,output,use_cases,genome assembly,2,0
+PMC3387794,CP003097,output,use_cases,identification of pseudogenes,2,0
+PMC3387794,CP003097,output,use_cases,identification of RNA genes,2,0
+PMC3387794,CP003097,output,use_cases,submission to public databases,2,1
+PMC3387794,Gc02016,gs,data_accessed,TRUE,1,0
+PMC3387794,Gc02016,gs,tools_software,BLAST,1,-1
+PMC3387794,Gc02016,gs,tools_software,Consed,1,0
+PMC3387794,Gc02016,gs,tools_software,Dupfinisher,1,0
+PMC3387794,Gc02016,gs,tools_software,gapResolution,1,0
+PMC3387794,Gc02016,gs,tools_software,GenePRIMP,1,0
+PMC3387794,Gc02016,gs,tools_software,Newbler version 2.0.00.20-PostRelease-11-05-2008,1,0
+PMC3387794,Gc02016,gs,tools_software,phrap version SPS - 4.24,1,0
+PMC3387794,Gc02016,gs,tools_software,Polisher,1,0
+PMC3387794,Gc02016,gs,tools_software,Prodigal,1,0
+PMC3387794,Gc02016,gs,tools_software,Rfam,1,0
+PMC3387794,Gc02016,gs,tools_software,RNAMMer,1,0
+PMC3387794,Gc02016,gs,tools_software,signalP,1,0
+PMC3387794,Gc02016,gs,tools_software,TMHMM,1,0
+PMC3387794,Gc02016,gs,tools_software,tRNAscan-SE,1,0
+PMC3387794,Gc02016,gs,tools_software,Velvet version 1.0.13,1,0
+PMC3387794,Gc02016,gs,use_cases,"The complete genome (Gc02016) of Thermovirga lienii type strain Cas60314 was sequenced, characterized, and registered in GOLD as part of this study.",1,0
+PMC3387794,Gc02016,gs,use_cases,The complete genome of Thermovirga lienii type strain Cas60314 chromosome (Gc02016) was used in a phylogenetic analysis with the phylum Synergistetes.,1,-1
+PMC3387794,Gc02016,output,data_accessed,TRUE,1,1
+PMC3387794,Gc02016,output,tools_software,Consed,1,1
+PMC3387794,Gc02016,output,tools_software,Dupfinisher,1,1
+PMC3387794,Gc02016,output,tools_software,gapResolution,1,1
+PMC3387794,Gc02016,output,tools_software,JGI GenePRIMP pipeline,1,1
+PMC3387794,Gc02016,output,tools_software,Newbler,1,1
+PMC3387794,Gc02016,output,tools_software,phrap,1,1
+PMC3387794,Gc02016,output,tools_software,Phred,1,-1
+PMC3387794,Gc02016,output,tools_software,Polisher,1,1
+PMC3387794,Gc02016,output,tools_software,Prodigal,1,1
+PMC3387794,Gc02016,output,tools_software,Rfam,1,1
+PMC3387794,Gc02016,output,tools_software,RNAMMer,1,1
+PMC3387794,Gc02016,output,tools_software,signalP,1,1
+PMC3387794,Gc02016,output,tools_software,TMHMM,1,1
+PMC3387794,Gc02016,output,tools_software,tRNAscan-SE,1,1
+PMC3387794,Gc02016,output,tools_software,Velvet,1,1
+PMC3387794,Gc02016,output,use_cases,COG functional category assignment and analysis,1,0
+PMC3387794,Gc02016,output,use_cases,Gap closure and quality improvement using PCR and Bubble PCR primer walks,1,0
+PMC3387794,Gc02016,output,use_cases,Gene calling and annotation using Prodigal and the JGI GenePRIMP pipeline,1,0
+PMC3387794,Gc02016,output,use_cases,Genome assembly using a combination of Illumina and 454 sequencing platforms,1,0
+PMC3387794,Gc02016,output,use_cases,Genome map creation and visualization,1,0
+PMC3387794,Gc02016,output,use_cases,Genome sequence deposition in GenBank and the Genomes OnLine Database (GOLD),1,1
+PMC3387794,Gc02016,output,use_cases,"Non-coding gene and miscellaneous feature prediction using tRNAscan-SE, RNAMMer, Rfam, TMHMM, and signalP",1,0
+PMC3407220,CP000029,gs,data_accessed,TRUE,2,0
+PMC3407220,CP000029,gs,use_cases,The genomic sequence of Staphylococcus epidermidis RP62A (CP000029) was used to guide construction of PCA primers for an arlS knockout gene in strain SE1457.,2,0
+PMC3407220,CP000029,output,data_accessed,TRUE,2,1
+PMC3407220,CP000029,output,use_cases,designing primers for PCR,2,1
+PMC4070870,NC_007267,gs,data_accessed,TRUE,1,0
+PMC4070870,NC_007267,gs,tools_software,PERL,1,0
+PMC4070870,NC_007267,gs,use_cases,The genome of Leishmania major strain Friedlin (NC_007267) was used in a comparative study of gene orientation.,1,0
+PMC4070870,NC_007267,output,data_accessed,TRUE,1,1
+PMC4070870,NC_007267,output,tools_software,Chi-square test algorithm (for statistical analysis),1,-1
+PMC4070870,NC_007267,output,tools_software,PERL program (for data processing and analysis),1,1
+PMC4070870,NC_007267,output,use_cases,"Classifying intergenic regions on chromosome 26 of Leishmania major strain Friedlin into FF, BB, FB, and BF types",1,0
+PMC4070870,NC_007267,output,use_cases,Counting the total number of same-direction and opposite-direction gene pairs on chromosome 26 of Leishmania major strain Friedlin,1,1
+PMC4070870,NC_007267,output,use_cases,Identifying the second largest string of same-direction genes on the forward strand of chromosome 26 of Leishmania major strain Friedlin,1,0
+PMC4070870,NC_007267,output,use_cases,Performing a chi-square test to determine the randomness of gene direction on chromosome 26 of Leishmania major strain Friedlin,1,0
+PMC4466345,FQ311469,gs,data_accessed,TRUE,2,0
+PMC4466345,FQ311469,gs,tools_software,CLC Genomics Workbench V7.01,2,-1
+PMC4466345,FQ311469,gs,use_cases,The mitochondrial genome (FQ311469) of Sporisorium reilianum SRZ2 was used as a reference for aligning the newly sequenced mitochondrial genome of Sporisorium scitamineum SSC39B.,2,-1
+PMC4466345,FQ311469,gs,use_cases,The mitochondrial genome (FQ311469) of Sporisorium reilianum SRZ2 was used in a comparison of genome size and gene content between the mitochondrial genome of Sporisorium scitamineum SSC39B and other published mitochondrial genomes.,2,0
+PMC4466345,FQ311469,output,data_accessed,TRUE,2,1
+PMC4466345,FQ311469,output,use_cases,Comparative analysis of mitochondrial genome size,2,1
+PMC4914127,AE006469,gs,data_accessed,TRUE,1,0
+PMC4914127,AE006469,gs,tools_software,KEGG automatic annotation server version 1.6a,1,-1
+PMC4914127,AE006469,gs,tools_software,LDSS,1,-1
+PMC4914127,AE006469,gs,tools_software,LDSS-P,1,-1
+PMC4914127,AE006469,gs,tools_software,MEME Suite software Version 4.9.1 patch1,1,-1
+PMC4914127,AE006469,gs,tools_software,Mosaik,1,0
+PMC4914127,AE006469,gs,use_cases,The sequence of Sinorhizobium melioti 1021 plasmid pSymA (AE006469) was used as the model for validating the effectiveness of the LDSS and LDSS-P software.,1,0
+PMC4914127,AE006469,output,data_accessed,TRUE,1,1
+PMC4914127,AE006469,output,tools_software,Mosaik,1,1
+PMC4914127,AE006469,output,tools_software,Savitsky-Golay's smoothing differentiation algorithm,1,-1
+PMC4914127,AE006469,output,use_cases,creating a matrix of mapped transcription start site reads,1,0
+PMC4914127,AE006469,output,use_cases,identifying significant transcription start site peaks using Savitsky-Golay's smoothing differentiation,1,-1
+PMC4914127,AE006469,output,use_cases,mapping 5' transcription start site reads to the S. meliloti 1021 genome,1,1
+PMC4914127,AL591688,gs,data_accessed,TRUE,2,0
+PMC4914127,AL591688,gs,tools_software,KEGG automatic annotation server version 1.6a,2,-1
+PMC4914127,AL591688,gs,tools_software,LDSS,2,-1
+PMC4914127,AL591688,gs,tools_software,LDSS-P,2,-1
+PMC4914127,AL591688,gs,tools_software,MEME Suite software Version 4.9.1 patch1,2,-1
+PMC4914127,AL591688,gs,tools_software,Mosaik,2,0
+PMC4914127,AL591688,gs,use_cases,The sequence of Sinorhizobium melioti 1021 plasmid pSymB (AL591985) was used as the model for validating the effectiveness of the LDSS and LDSS-P software.,2,0
+PMC4914127,AL591688,output,data_accessed,TRUE,2,1
+PMC4914127,AL591688,output,tools_software,Mosaik,2,1
+PMC4914127,AL591688,output,tools_software,Savitsky-Golay's smoothing differentiation algorithm,2,-1
+PMC4914127,AL591688,output,use_cases,Assigning TSS peaks to genes within 150 bp of the 5' end of a coding sequence,2,-1
+PMC4914127,AL591688,output,use_cases,Creating a matrix of mapped TSS read counts at each position,2,0
+PMC4914127,AL591688,output,use_cases,Extracting 100 bp upstream and 50 bp downstream sequences from each TSS for the promoter dataset,2,0
+PMC4914127,AL591688,output,use_cases,Identifying significant TSS peaks using Savitsky-Golay's smoothing differentiation,2,0
+PMC4914127,AL591688,output,use_cases,Mapping 5' transcription start sites to the S. meliloti 1021 reference genome,2,1
+PMC4914127,AL591985,gs,data_accessed,TRUE,1,0
+PMC4914127,AL591985,gs,tools_software,KEGG automatic annotation server version 1.6a,1,-1
+PMC4914127,AL591985,gs,tools_software,LDSS,1,-1
+PMC4914127,AL591985,gs,tools_software,LDSS-P,1,-1
+PMC4914127,AL591985,gs,tools_software,MEME Suite software Version 4.9.1 patch1,1,-1
+PMC4914127,AL591985,gs,tools_software,Mosaik,1,0
+PMC4914127,AL591985,gs,use_cases,The genome sequence of Sinorhizobium melioti 1021 (AL591688) was used as the model for validating the effectiveness of the LDSS and LDSS-P software.,1,0
+PMC4914127,AL591985,output,data_accessed,TRUE,1,1
+PMC4914127,AL591985,output,tools_software,Mosaik,1,1
+PMC4914127,AL591985,output,use_cases,Mapping 5' transcription start sites onto the reference genomic sequences of S. meliloti 1021,1,1
+PMC5105107,MINA00000000,gs,data_accessed,TRUE,2,0
+PMC5105107,MINA00000000,gs,tools_software,bowtie2 version 2.2.6 ,2,0
+PMC5105107,MINA00000000,gs,tools_software,National Center for Biotechnology Information (NCBI) Prokaryotic Genome Annotation Pipeline,2,0
+PMC5105107,MINA00000000,gs,tools_software,QUAST version 4.2,2,0
+PMC5105107,MINA00000000,gs,tools_software,sickle version 1.33,2,0
+PMC5105107,MINA00000000,gs,tools_software,Spades version 3.9.0,2,0
+PMC5105107,MINA00000000,gs,use_cases,"MINA00000000 represents the output of the study, as the authors performed whole-genome sequencing, assembly, and annotation of Mycobacterium bovis strain D-10-02315 and deposited the resulting data in the GenBank database.",2,0
+PMC5105107,MINA00000000,output,data_accessed,TRUE,2,1
+PMC5105107,MINA00000000,output,tools_software,Bowtie2,2,1
+PMC5105107,MINA00000000,output,tools_software,NCBI Prokaryotic Genome Annotation Pipeline,2,1
+PMC5105107,MINA00000000,output,tools_software,QUAST,2,1
+PMC5105107,MINA00000000,output,tools_software,Sickle,2,1
+PMC5105107,MINA00000000,output,tools_software,Spades,2,1
+PMC5105107,MINA00000000,output,use_cases,calculation of genome assembly metrics with QUAST,2,0
+PMC5105107,MINA00000000,output,use_cases,de novo assembly with Spades,2,0
+PMC5105107,MINA00000000,output,use_cases,genome annotation with NCBI Prokaryotic Genome Annotation Pipeline,2,0
+PMC5105107,MINA00000000,output,use_cases,read alignment to a reference genome with Bowtie2,2,0
+PMC5105107,MINA00000000,output,use_cases,read filtering with Sickle,2,0
+PMC5105107,MINA00000000,output,use_cases,submission to a public repository (DDBJ/ENA/GenBank),2,0
+PMC5105107,MINA00000000,output,use_cases,whole-genome sequencing,2,1
+PMC5105107,MINA01000000,gs,data_accessed,TRUE,1,0
+PMC5105107,MINA01000000,gs,tools_software,bowtie2 version 2.2.6 ,1,0
+PMC5105107,MINA01000000,gs,tools_software,National Center for Biotechnology Information (NCBI) Prokaryotic Genome Annotation Pipeline,1,0
+PMC5105107,MINA01000000,gs,tools_software,QUAST version 4.2,1,0
+PMC5105107,MINA01000000,gs,tools_software,sickle version 1.33,1,0
+PMC5105107,MINA01000000,gs,tools_software,Spades version 3.9.0,1,0
+PMC5105107,MINA01000000,gs,use_cases,"MINA01000000 represents the output of the study, as the authors performed whole-genome sequencing, assembly, and annotation of Mycobacterium bovis strain D-10-02315 and deposited the resulting data in the GenBank database.",1,0
+PMC5105107,MINA01000000,output,data_accessed,TRUE,1,1
+PMC5105107,MINA01000000,output,tools_software,Bowtie2,1,1
+PMC5105107,MINA01000000,output,tools_software,NCBI Prokaryotic Genome Annotation Pipeline,1,1
+PMC5105107,MINA01000000,output,tools_software,QUAST,1,1
+PMC5105107,MINA01000000,output,tools_software,Sickle,1,1
+PMC5105107,MINA01000000,output,tools_software,Spades,1,1
+PMC5105107,MINA01000000,output,use_cases,calculation of genome assembly metrics using QUAST,1,0
+PMC5105107,MINA01000000,output,use_cases,de novo assembly using Spades,1,0
+PMC5105107,MINA01000000,output,use_cases,genome annotation using the NCBI Prokaryotic Genome Annotation Pipeline,1,0
+PMC5105107,MINA01000000,output,use_cases,read alignment to a reference genome using Bowtie2,1,0
+PMC5105107,MINA01000000,output,use_cases,read filtering with Sickle,1,0
+PMC5105107,MINA01000000,output,use_cases,submission to a public repository (DDBJ/ENA/GenBank),1,0
+PMC5105107,MINA01000000,output,use_cases,whole-genome sequencing,1,1
+PMC5210664,Gs0095506,gs,data_accessed,FALSE,2,0
+PMC5210664,Gs0095506,output,data_accessed,FALSE,2,1
+PMC5435917,NC_006526,gs,data_accessed,TRUE,1,0
+PMC5435917,NC_006526,gs,tools_software,BLAST,1,-1
+PMC5435917,NC_006526,gs,tools_software,IntaRNA,1,0
+PMC5435917,NC_006526,gs,tools_software,Matlab,1,-1
+PMC5435917,NC_006526,gs,use_cases,The authors ran a BLAST search against the genome of Zymomonas mobilis subsp. mobilis ZM4 (NC_006526) to predict mRNA targets of the sRNAs Zms4 and Zms6.,1,-1
+PMC5435917,NC_006526,gs,use_cases,The authors used the genome of Zymomonas mobilis subsp. mobilis ZM4 (NC_006526) to benchmark the inTherAcc algorithm against IntaRNA for predicting and evaluating hybrdization efficacy based on in vivo experimental data.,1,0
+PMC5435917,NC_006526,output,data_accessed,TRUE,1,1
+PMC5435917,NC_006526,output,tools_software,IntaRNA,1,1
+PMC5435917,NC_006526,output,use_cases,IntaRNA prediction of sRNA-mRNA interactions in Zymomonas mobilis using NC_006526 as a reference sequence,1,1
+PMC5489566,CR377818,gs,data_accessed,TRUE,2,0
+PMC5489566,CR377818,gs,tools_software,CLC Main Workbench,2,0
+PMC5489566,CR377818,gs,use_cases,"Plasmid pPBPR1 (CR377818) was used to search Photobacterium genomes for features related to virulence, drug resistance, and biosynthetic capabilities.",2,0
+PMC5489566,CR377818,output,data_accessed,TRUE,2,1
+PMC5489566,CR377818,output,tools_software,CLC Main Workbench,2,1
+PMC5489566,CR377818,output,use_cases,plasmid sequence search,2,1
+PMC5489566,KC344732,gs,data_accessed,TRUE,1,0
+PMC5489566,KC344732,gs,tools_software,CLC Main Workbench,1,0
+PMC5489566,KC344732,gs,use_cases,"Plasmid pPHDP60 (KC344732) was used to search Photobacterium genomes for features related to virulence, drug resistance, and biosynthetic capabilities.",1,0
+PMC5489566,KC344732,output,data_accessed,TRUE,1,1
+PMC5489566,KC344732,output,tools_software,CLC Main Workbench,1,1
+PMC5489566,KC344732,output,use_cases,comparing known Photobacterium plasmids to studied genomes,1,1
+PMC5489566,KC344732,output,use_cases,identifying plasmid sequences in draft genomes,1,0
+PMC5489566,KP100338,gs,data_accessed,TRUE,2,0
+PMC5489566,KP100338,gs,tools_software,CLC Main Workbench,2,0
+PMC5489566,KP100338,gs,use_cases,"Plasmid pPHDP70 (KP100338) was used to search Photobacterium genomes for features related to virulence, drug resistance, and biosynthetic capabilities.",2,0
+PMC5489566,KP100338,output,data_accessed,TRUE,2,1
+PMC5489566,KP100338,output,tools_software,CLC Main Workbench,2,1
+PMC5489566,KP100338,output,use_cases,comparing known Photobacterium plasmids to studied genomes,2,1
+PMC5489566,KP100338,output,use_cases,identifying potential plasmid sequences within Photobacterium genomes,2,0
+PMC5932375,CP000046.1,gs,data_accessed,TRUE,1,0
+PMC5932375,CP000046.1,gs,tools_software,BEAST 2.4.5,1,-1
+PMC5932375,CP000046.1,gs,tools_software,ClonalFrameML,1,-1
+PMC5932375,CP000046.1,gs,tools_software,gingr,1,-1
+PMC5932375,CP000046.1,gs,tools_software,Interactive Tree of Life (iTOL),1,-1
+PMC5932375,CP000046.1,gs,tools_software,Parsnp,1,-1
+PMC5932375,CP000046.1,gs,tools_software,PhyML,1,0
+PMC5932375,CP000046.1,gs,tools_software,R,1,-1
+PMC5932375,CP000046.1,gs,tools_software,RAxML version 8.2.11,1,0
+PMC5932375,CP000046.1,gs,tools_software,VariScan,1,-1
+PMC5932375,CP000046.1,gs,use_cases,CP000046 was used as an outgroup in a molecular dating analysis in which the BEAST tool was used to estimate the divergence of USA500 clades.,1,-1
+PMC5932375,CP000046.1,gs,use_cases,CP000046 was used as an outgroup in a phylogenetic analysis of Staphylococcus aureus USA500 strains.,1,0
+PMC5932375,CP000046.1,output,data_accessed,TRUE,1,1
+PMC5932375,CP000046.1,output,tools_software,PhyML,1,1
+PMC5932375,CP000046.1,output,tools_software,RAxML,1,1
+PMC5932375,CP000046.1,output,use_cases,outgroup selection in phylogenetic analysis,1,1
+PMC5932375,CP000046.1,output,use_cases,rooting of the phylogenetic tree,1,0
+PMC5932375,CP007499,gs,data_accessed,TRUE,2,0
+PMC5932375,CP007499,gs,tools_software,BLAST+ v2.2.28,2,0
+PMC5932375,CP007499,gs,tools_software,ClonalFrameML,2,-1
+PMC5932375,CP007499,gs,tools_software,gingr,2,-1
+PMC5932375,CP007499,gs,tools_software,Interactive Tree of Life (iTOL),2,-1
+PMC5932375,CP007499,gs,tools_software,ISMapper v1.2,2,0
+PMC5932375,CP007499,gs,tools_software,Parsnp,2,0
+PMC5932375,CP007499,gs,tools_software,PhyML,2,-1
+PMC5932375,CP007499,gs,tools_software,R,2,-1
+PMC5932375,CP007499,gs,tools_software,RAxML version 8.2.11,2,-1
+PMC5932375,CP007499,gs,tools_software,VariScan,2,-1
+PMC5932375,CP007499,gs,use_cases,CP007499 was used as a reference sequence to investigate the origin and insertion sites of the toxicity-adjacent IS256 insertion elements in other isolates of the C1 clade.,2,0
+PMC5932375,CP007499,gs,use_cases,CP007499 was used by the authors as the reference genome for aligning genomes of Staphylococcus aureus USA500 and CC8 strains.,2,0
+PMC5932375,CP007499,gs,use_cases,CP007499 was used in a phylogenetic analysis of Staphylococcus aureus USA500 strains.,2,-1
+PMC5932375,CP007499,output,data_accessed,TRUE,2,1
+PMC5932375,CP007499,output,tools_software,BLAST,2,1
+PMC5932375,CP007499,output,tools_software,ISMapper,2,1
+PMC5932375,CP007499,output,tools_software,Parsnp,2,1
+PMC5932375,CP007499,output,tools_software,SPAdes,2,-1
+PMC5932375,CP007499,output,use_cases,Annotation of genomic features,2,-1
+PMC5932375,CP007499,output,use_cases,Query sequence for ISMapper to determine IS256 transposon insertion sites,2,1
+PMC5932375,CP007499,output,use_cases,Reference genome for whole-genome alignment,2,1
+PMC5932375,CP007500,gs,data_accessed,TRUE,1,0
+PMC5932375,CP007500,gs,tools_software,BLAST+ v2.2.28,1,0
+PMC5932375,CP007500,gs,use_cases,CP007500 was used as the reference plasmid sequence to identify the transposon insertion sites of the toxicity-adjacent IS256 insertion elements in isolates of the C1 clade.,1,0
+PMC5932375,CP007500,output,data_accessed,TRUE,1,1
+PMC5932375,CP007500,output,tools_software,BLAST+,1,1
+PMC5932375,CP007500,output,tools_software,ISMapper,1,-1
+PMC5932375,CP007500,output,tools_software,Parsnp,1,-1
+PMC5932375,CP007500,output,tools_software,PhyML,1,-1
+PMC5932375,CP007500,output,tools_software,RAxML,1,-1
+PMC5932375,CP007500,output,use_cases,BLAST matching to identify plasmid pUSA500-like sequences in other strains,1,1
+PMC5932375,CP007500,output,use_cases,ISMapper analysis to determine IS256 transposon insertion sites using the strain 2395 reference genome,1,-1
+PMC5932375,CP007500,output,use_cases,Whole-genome alignment and phylogenetic analysis using strain 2395 as a reference genome,1,-1
+PMC6316102,DQ811788,gs,data_accessed,TRUE,2,0
+PMC6316102,DQ811788,gs,tools_software,MegAlign,2,-1
+PMC6316102,DQ811788,gs,use_cases,The genome of TGEV (DQ811788) was used as a reference sequence for comparative alignment with a novel Open Reading Frame in PEDV.,2,0
+PMC6316102,DQ811788,output,data_accessed,TRUE,2,1
+PMC6316102,DQ811788,output,tools_software,Mfold algorithm,2,-1
+PMC6316102,DQ811788,output,use_cases,Comparison of 3' UTR structure and sequence between PEDV and TGEV,2,1
+PMC6316102,DQ811788,output,use_cases,Identification of a novel subgenomic mRNA (sgmRNA) and comparison of its ORF with TGEV,2,0
+PMC6459918,CP031298,gs,data_accessed,TRUE,1,0
+PMC6459918,CP031298,gs,tools_software,BLAST,1,0
+PMC6459918,CP031298,gs,tools_software,EMBOSS,1,0
+PMC6459918,CP031298,gs,tools_software,iTOL,1,0
+PMC6459918,CP031298,gs,tools_software,MEGA 5.2,1,0
+PMC6459918,CP031298,gs,tools_software,MUSCLE,1,0
+PMC6459918,CP031298,gs,tools_software,R,1,-1
+PMC6459918,CP031298,gs,use_cases,The sequence of the Haloterrigena jeotgali A29 chromosome (CP031298) was used as the reference in a phylogenetic analysis of DndCD and PbeAC sequences.,1,0
+PMC6459918,CP031298,gs,use_cases,The sequence of the Haloterrigena jeotgali A29 chromosome (CP031298) was used in a study of the diversity of phosphorothioate (PT) systems in prokaryotes.,1,0
+PMC6459918,CP031298,output,data_accessed,TRUE,1,1
+PMC6459918,CP031298,output,tools_software,BLAST,1,1
+PMC6459918,CP031298,output,tools_software,EMBOSS (needle programme),1,1
+PMC6459918,CP031298,output,tools_software,iTOL,1,1
+PMC6459918,CP031298,output,tools_software,MEGA 5.2,1,1
+PMC6459918,CP031298,output,tools_software,MUSCLE,1,1
+PMC6459918,CP031298,output,use_cases,Genome annotation and gene identification,1,-1
+PMC6459918,CP031298,output,use_cases,Phylogenetic analysis of DndCD proteins,1,1
+PMC6459918,CP031298,output,use_cases,PT modification site identification and quantification,1,1
+PMC6459918,CP031298,output,use_cases,SMRT sequencing data analysis to profile genome-wide PT sites,1,0
+PMC6459918,CP031304,gs,data_accessed,TRUE,2,0
+PMC6459918,CP031304,gs,tools_software,BLAST,2,0
+PMC6459918,CP031304,gs,tools_software,EMBOSS,2,0
+PMC6459918,CP031304,gs,tools_software,iTOL,2,-1
+PMC6459918,CP031304,gs,tools_software,MEGA 5.2,2,0
+PMC6459918,CP031304,gs,tools_software,MUSCLE,2,0
+PMC6459918,CP031304,gs,tools_software,R,2,-1
+PMC6459918,CP031304,gs,use_cases,The sequence of Haloterrigena jeotgali A29 plasmid unnamed6 (CP031304) was used as the reference in a phylogenetic analysis of DndCD and PbeAC sequences.,2,-1
+PMC6459918,CP031304,gs,use_cases,The sequence of Haloterrigena jeotgali A29 plasmid unnamed6 (CP031304) was used in a study of the diversity of phosphorothioate (PT) systems in prokaryotes.,2,0
+PMC6459918,CP031304,output,data_accessed,TRUE,2,1
+PMC6459918,CP031304,output,tools_software,BLAST,2,1
+PMC6459918,CP031304,output,tools_software,EMBOSS (needle programme),2,1
+PMC6459918,CP031304,output,tools_software,MEGA 5.2,2,1
+PMC6459918,CP031304,output,tools_software,MUSCLE,2,1
+PMC6459918,CP031304,output,tools_software,SMRT sequencing software,2,-1
+PMC6459918,CP031304,output,use_cases,genome assembly,2,-1
+PMC6459918,CP031304,output,use_cases,genome sequencing,2,0
+PMC6459918,CP031304,output,use_cases,genome-wide PT site profiling using SMRT sequencing,2,0
+PMC6459918,CP031304,output,use_cases,identification of PT-enriched regions,2,0
+PMC6459918,CP031304,output,use_cases,identification of PT-modified 5'-GATC-3' sites,2,0
+PMC6459918,CP031304,output,use_cases,PT modification frequency calculation,2,1
+PMC6459918,CP031304,output,use_cases,PT modification mapping across the genome,2,0
+PMC6459918,CP031304,output,use_cases,PT modification site identification,2,0
+PMC6459918,CP031304,output,use_cases,sequence bias analysis for PT modification-proximate bases,2,0
+PMC6459918,CP031311,gs,data_accessed,TRUE,1,0
+PMC6459918,CP031311,gs,tools_software,BLAST,1,0
+PMC6459918,CP031311,gs,tools_software,EMBOSS,1,0
+PMC6459918,CP031311,gs,tools_software,iTOL,1,-1
+PMC6459918,CP031311,gs,tools_software,MEGA 5.2,1,0
+PMC6459918,CP031311,gs,tools_software,MUSCLE,1,0
+PMC6459918,CP031311,gs,tools_software,R,1,0
+PMC6459918,CP031311,gs,use_cases,The sequence of the Halobellus limi CGMCC 1.10331 chromosome (CP031311) was used as the reference in a phylogenetic analysis of DndCD and PbeAC sequences.,1,-1
+PMC6459918,CP031311,gs,use_cases,The sequence of the Halobellus limi CGMCC 1.10331 chromosome (CP031311) was used in a study of the diversity of phosphorothioate (PT) systems in prokaryotes.,1,0
+PMC6459918,CP031311,output,data_accessed,TRUE,1,1
+PMC6459918,CP031311,output,tools_software,BLAST,1,1
+PMC6459918,CP031311,output,tools_software,EMBOSS (needle programme),1,1
+PMC6459918,CP031311,output,tools_software,MEGA 5.2,1,1
+PMC6459918,CP031311,output,tools_software,MUSCLE,1,1
+PMC6459918,CP031311,output,tools_software,R,1,1
+PMC6459918,CP031311,output,use_cases,analysis of PT modification sequence biases and context,1,1
+PMC6459918,CP031311,output,use_cases,genome-wide PT site profiling using single-molecule real-time (SMRT) sequencing,1,0
+PMC6459918,CP031311,output,use_cases,identification of DNA phosphorothioate (PT) modifications,1,0
+PMC6459918,CP031311,output,use_cases,quantification of PT modification frequency,1,0
+PMC6459918,CP031314,gs,data_accessed,TRUE,2,0
+PMC6459918,CP031314,gs,tools_software,BLAST,2,0
+PMC6459918,CP031314,gs,tools_software,EMBOSS,2,0
+PMC6459918,CP031314,gs,tools_software,iTOL,2,0
+PMC6459918,CP031314,gs,tools_software,MEGA 5.2,2,0
+PMC6459918,CP031314,gs,tools_software,MUSCLE,2,0
+PMC6459918,CP031314,gs,tools_software,R,2,0
+PMC6459918,CP031314,gs,use_cases,The sequence of Halobellus limi CGMCC 1.10331 plasmid unnamed3 (CP031314) was used as the reference in a phylogenetic analysis of DndCD and PbeAC sequences.,2,0
+PMC6459918,CP031314,gs,use_cases,The sequence of Halobellus limi CGMCC 1.10331 plasmid unnamed3 (CP031314) was used in a study of the diversity of phosphorothioate (PT) systems in prokaryotes.,2,0
+PMC6459918,CP031314,output,data_accessed,TRUE,2,1
+PMC6459918,CP031314,output,tools_software,BLAST,2,1
+PMC6459918,CP031314,output,tools_software,EMBOSS (needle programme),2,1
+PMC6459918,CP031314,output,tools_software,iTOL,2,1
+PMC6459918,CP031314,output,tools_software,MEGA 5.2,2,1
+PMC6459918,CP031314,output,tools_software,MUSCLE,2,1
+PMC6459918,CP031314,output,tools_software,R,2,1
+PMC6459918,CP031314,output,use_cases,Calculation of PT modification frequencies at specific genomic sequences,2,0
+PMC6459918,CP031314,output,use_cases,Detection of PT-linked dinucleotides via enzymatic hydrolysis of archaeal DNA,2,-1
+PMC6459918,CP031314,output,use_cases,Phylogenetic analysis of DndCD proteins,2,1
+PMC6459918,CP031314,output,use_cases,SMRT sequencing data analysis to profile genome-wide PT sites,2,1
+PMC6753271,CP026503,gs,data_accessed,TRUE,1,0
+PMC6753271,CP026503,gs,tools_software,BLAST,1,0
+PMC6753271,CP026503,gs,use_cases,The genome of Lactobacillus crispatus strain AB70 (CP026503) was used in a 16S rRNA comparison to strain V4.,1,0
+PMC6753271,CP026503,output,data_accessed,TRUE,1,1
+PMC6753271,CP026503,output,tools_software,BLAST,1,1
+PMC6753271,CP026503,output,use_cases,BLAST comparison with the 16S rRNA sequence of Lactobacillus crispatus strain V4 for species identification,1,1
+PMC6955870,PPFD00000000,gs,data_accessed,TRUE,2,0
+PMC6955870,PPFD00000000,gs,tools_software,BLAST,2,0
+PMC6955870,PPFD00000000,gs,tools_software,BlastKOALA,2,0
+PMC6955870,PPFD00000000,gs,tools_software,BLASTp,2,0
+PMC6955870,PPFD00000000,gs,tools_software,CGview,2,0
+PMC6955870,PPFD00000000,gs,tools_software,CheckM v1.0.08,2,0
+PMC6955870,PPFD00000000,gs,tools_software,cutadapt v1.12,2,0
+PMC6955870,PPFD00000000,gs,tools_software,eggnog-mapper tool v1.0.3,2,0
+PMC6955870,PPFD00000000,gs,tools_software,eggnog-mapper_COGextraction,2,-1
+PMC6955870,PPFD00000000,gs,tools_software,FASconCAT v1.1,2,0
+PMC6955870,PPFD00000000,gs,tools_software,FIMO v5.05,2,0
+PMC6955870,PPFD00000000,gs,tools_software,GapFillerv1.10,2,0
+PMC6955870,PPFD00000000,gs,tools_software,GET_HOMOLOGUES v3.0,2,0
+PMC6955870,PPFD00000000,gs,tools_software,GGDC 2.1,2,0
+PMC6955870,PPFD00000000,gs,tools_software,gplots v3.0.1,2,-1
+PMC6955870,PPFD00000000,gs,tools_software,InterProScan v5.32-71.0,2,0
+PMC6955870,PPFD00000000,gs,tools_software,IQ-TREE v1.6.1,2,0
+PMC6955870,PPFD00000000,gs,tools_software,MUSCLE v3.8.31,2,0
+PMC6955870,PPFD00000000,gs,tools_software,OrthoFinder v2.3.1,2,0
+PMC6955870,PPFD00000000,gs,tools_software,PROKKA v1.12,2,0
+PMC6955870,PPFD00000000,gs,tools_software,Pyani,2,0
+PMC6955870,PPFD00000000,gs,tools_software,R v3.4.4,2,-1
+PMC6955870,PPFD00000000,gs,tools_software,RAST,2,0
+PMC6955870,PPFD00000000,gs,tools_software,SSPACE_Standard v3.0,2,0
+PMC6955870,PPFD00000000,gs,tools_software,trimAl v1.4,2,0
+PMC6955870,PPFD00000000,gs,tools_software,Velvet v1.2.10,2,0
+PMC6955870,PPFD00000000,gs,tools_software,Velvet v1.2.10,2,0
+PMC6955870,PPFD00000000,gs,use_cases,"PPFD00000000 represents the output of the study, as the authors performed whole-genome sequencing, assembly, and annotation of Endozoicomonas sp. OPT23 and deposited the resulting data in the GenBank database.",2,0
+PMC6955870,PPFD00000000,output,data_accessed,TRUE,2,1
+PMC6955870,PPFD00000000,output,tools_software,BLAST,2,1
+PMC6955870,PPFD00000000,output,tools_software,BlastKOALA,2,1
+PMC6955870,PPFD00000000,output,tools_software,BlastKOALA,2,1
+PMC6955870,PPFD00000000,output,tools_software,BLASTp,2,1
+PMC6955870,PPFD00000000,output,tools_software,CGview,2,1
+PMC6955870,PPFD00000000,output,tools_software,CheckM v1.0.08,2,1
+PMC6955870,PPFD00000000,output,tools_software,cutadapt v1.12,2,1
+PMC6955870,PPFD00000000,output,tools_software,DIAMOND,2,-1
+PMC6955870,PPFD00000000,output,tools_software,eggNOG database v4.5,2,-1
+PMC6955870,PPFD00000000,output,tools_software,eggNOG-mapper tool v1.0.3,2,1
+PMC6955870,PPFD00000000,output,tools_software,FASconCAT v1.1,2,1
+PMC6955870,PPFD00000000,output,tools_software,FIMO v5.05,2,1
+PMC6955870,PPFD00000000,output,tools_software,GapFiller v1.10,2,1
+PMC6955870,PPFD00000000,output,tools_software,GET_HOMOLOGUES v3.0,2,1
+PMC6955870,PPFD00000000,output,tools_software,GGDC 2.1,2,1
+PMC6955870,PPFD00000000,output,tools_software,InterProScan v5.32-71.0,2,1
+PMC6955870,PPFD00000000,output,tools_software,IQ-TREE v1.6.1,2,1
+PMC6955870,PPFD00000000,output,tools_software,MUSCLE v3.8.31,2,1
+PMC6955870,PPFD00000000,output,tools_software,OrthoFinder v2.3.1,2,1
+PMC6955870,PPFD00000000,output,tools_software,PROKKA v1.12,2,1
+PMC6955870,PPFD00000000,output,tools_software,Pyani,2,1
+PMC6955870,PPFD00000000,output,tools_software,RAST,2,1
+PMC6955870,PPFD00000000,output,tools_software,SecReT6,2,-1
+PMC6955870,PPFD00000000,output,tools_software,SecretEPDB,2,-1
+PMC6955870,PPFD00000000,output,tools_software,SSPACE_Standard v3.0,2,1
+PMC6955870,PPFD00000000,output,tools_software,TPRpred v10.3,2,-1
+PMC6955870,PPFD00000000,output,tools_software,trimAl v1.4,2,1
+PMC6955870,PPFD00000000,output,tools_software,Velvet v1.2.10,2,1
+PMC6955870,PPFD00000000,output,use_cases,Annotation of genome-specific genes using essential gene database,2,0
+PMC6955870,PPFD00000000,output,use_cases,Calculation of average nucleotide identity (ANI) and in silico DNA-DNA hybridization (DDH) estimates using Pyani and GGDC 2.1,2,0
+PMC6955870,PPFD00000000,output,use_cases,Construction of a genome tree using OrthoFinder v2.3.1 and IQ-TREE v1.6.1,2,0
+PMC6955870,PPFD00000000,output,use_cases,Functional assignment of predicted coding sequences using eggNOG database v4.5,2,0
+PMC6955870,PPFD00000000,output,use_cases,Gap filling using GapFiller v1.10,2,0
+PMC6955870,PPFD00000000,output,use_cases,Genome annotation using PROKKA v1.12,2,0
+PMC6955870,PPFD00000000,output,use_cases,Genome assembly using Velvet v1.2.10,2,0
+PMC6955870,PPFD00000000,output,use_cases,Prediction of clusters of orthologous groups (COGs) using eggNOG-mapper tool v1.0.3,2,0
+PMC6955870,PPFD00000000,output,use_cases,"Prediction of eukaryotic-like proteins (ELPs) such as ankyrin repeats, tetratricopeptide repeats, and Sel1 repeats",2,0
+PMC6955870,PPFD00000000,output,use_cases,Prediction of genome-specific genes using GET_HOMOLOGUES v3.0 and OrthoFinder v2.3.1,2,0
+PMC6955870,PPFD00000000,output,use_cases,Prediction of type VI and type III secretion system effector proteins using SecretEPDB and FIMO v5.05,2,-1
+PMC6955870,PPFD00000000,output,use_cases,Scaffolding using SSPACE_Standard v3.0,2,0
+PMC6955870,PPFD00000000,output,use_cases,Screening and classification of secretion systems using BlastKOALA and SecReT6,2,0
+PMC6955870,PPFD00000000,output,use_cases,Whole genome sequencing of Endozoicomonas sp. OPT23,2,1
+PMC7414432,NC_034156,gs,data_accessed,TRUE,1,0
+PMC7414432,NC_034156,gs,tools_software,Geneious R9.1.8,1,-1
+PMC7414432,NC_034156,gs,tools_software,MAFFT-E v7.308,1,0
+PMC7414432,NC_034156,gs,use_cases,The data under accession number NC_034156 was used in a MAFFT alignment to investigate short repeated sequence (SRS) motifs and repeated sequence elements (RSEs) in the newly sequenced ASALV genome sequence.,1,0
+PMC7414432,NC_034156,output,data_accessed,TRUE,1,1
+PMC7414432,NC_034156,output,tools_software,MAFFT-E,1,1
+PMC7414432,NC_034156,output,use_cases,MAFFT-E alignment of the RSE of ASALV with Cordoba virus,1,1
+PMC7414432,NC_034156,output,use_cases,MAFFT-E alignment of the SRS motif of ASALV with Cordoba virus,1,0
+PMC8415480,AM933173,gs,data_accessed,TRUE,2,0
+PMC8415480,AM933173,gs,tools_software,BLAST v2.7.1,2,0
+PMC8415480,AM933173,gs,use_cases,The complete genome for Salmonella enterica subsp. enterica serovar Gallinarum str. 287/91 (AM933173) was identified as the closest match to strain 07Q015.,2,0
+PMC8415480,AM933173,output,data_accessed,TRUE,2,1
+PMC8415480,AM933173,output,tools_software,BLAST (v2.7.1),2,1
+PMC8415480,AM933173,output,use_cases,BLAST analysis to identify the species to which the assembled genome of S. Gallinarum 07Q015 showed the highest similarity,2,1
+PMC8557374,GCA_000696285,gs,data_accessed,TRUE,1,0
+PMC8557374,GCA_000696285,gs,tools_software,BlastN,1,-1
+PMC8557374,GCA_000696285,gs,tools_software,Mauve,1,0
+PMC8557374,GCA_000696285,gs,tools_software,TblastX,1,0
+PMC8557374,GCA_000696285,gs,use_cases,The assembled genome of Bacillus amyloliquefaciens B1895 (GCA_000696285) was returned as a result of a BLASTN against the NCBI RefSeq genome database and used to partially reconstruct a novel plasmid labeled pBamB1895â€¡.,1,0
+PMC8557374,GCA_000696285,gs,use_cases,The reconstructed plasmid pBamB1895â€¡ from the assembled genome of Bacillus amyloliquefaciens B1895 (GCA_000696285) was subjected to further sequencing and annotation to determine if the original contigs represent the complete plasmid pBamB1895 sequence.,1,0
+PMC8557374,GCA_000696285,output,data_accessed,TRUE,1,1
+PMC8557374,GCA_000696285,output,tools_software,Biopython (GenomeDiagram module),1,-1
+PMC8557374,GCA_000696285,output,tools_software,FastQC,1,-1
+PMC8557374,GCA_000696285,output,tools_software,Inkscape,1,-1
+PMC8557374,GCA_000696285,output,tools_software,IQ-TREE,1,-1
+PMC8557374,GCA_000696285,output,tools_software,MAFFT,1,-1
+PMC8557374,GCA_000696285,output,tools_software,Mauve,1,1
+PMC8557374,GCA_000696285,output,tools_software,Mummerplot,1,-1
+PMC8557374,GCA_000696285,output,tools_software,NEBNext DNA library prep kit software (for Illumina),1,-1
+PMC8557374,GCA_000696285,output,tools_software,PlasmidSPAdes,1,-1
+PMC8557374,GCA_000696285,output,tools_software,PROKKA,1,-1
+PMC8557374,GCA_000696285,output,tools_software,Quast,1,-1
+PMC8557374,GCA_000696285,output,tools_software,SPAdes,1,-1
+PMC8557374,GCA_000696285,output,tools_software,TblastX,1,1
+PMC8557374,GCA_000696285,output,use_cases,identification of contigs containing plasmid-related sequences,1,0
+PMC8557374,GCA_000696285,output,use_cases,new NGS sequencing project with high coverage to complete the sequence of pBamB1895,1,1
+PMC8557374,GCA_000696285,output,use_cases,reconstruction of plasmid pBamB1895 from multiple contigs,1,1
+PMC8557374,GCA_000696285,output,use_cases,validation of the strategy for identifying pLS20-like sequences in NGS projects,1,0
+PMC8557374,GCA_001029865,gs,data_accessed,TRUE,2,0
+PMC8557374,GCA_001029865,gs,tools_software,BlastN,2,-1
+PMC8557374,GCA_001029865,gs,tools_software,Mauve,2,-1
+PMC8557374,GCA_001029865,gs,tools_software,TblastX,2,0
+PMC8557374,GCA_001029865,gs,use_cases,The assembled genome of Bacillus altitudinis RIT380 (GCA_001029865) was returned as a result of a BLASTN against the NCBI RefSeq genome database and used to partially reconstruct a novel plasmid labeled pBalRIT38â€¡.,2,0
+PMC8557374,GCA_001029865,output,data_accessed,TRUE,2,1
+PMC8557374,GCA_001029865,output,tools_software,PROKKA,2,-1
+PMC8557374,GCA_001029865,output,tools_software,TblastX,2,1
+PMC8557374,GCA_001029865,output,use_cases,Annotation of plasmid pBalRIT380 using the PROKKA tool,2,-1
+PMC8557374,GCA_001029865,output,use_cases,Assembly and reconstruction of plasmid pBalRIT380 from multiple contigs,2,1
+PMC8557374,GCA_001029865,output,use_cases,TblastX search against the NGS project to identify plasmid-related contigs,2,0
+PMC8557374,GCA_001286745,gs,data_accessed,TRUE,1,0
+PMC8557374,GCA_001286745,gs,tools_software,BlastN,1,-1
+PMC8557374,GCA_001286745,gs,tools_software,Mauve,1,0
+PMC8557374,GCA_001286745,gs,tools_software,TblastX,1,0
+PMC8557374,GCA_001286745,gs,use_cases,The assembled genome of Bacillus subtilis JRS9 (GCA_001286745) was returned as a result of a BLASTN against the NCBI RefSeq genome database and used to partially reconstruct a novel plasmid labeled pBsuJRS9â€¡,1,0
+PMC8557374,GCA_001286745,output,data_accessed,TRUE,1,1
+PMC8557374,GCA_001286745,output,tools_software,Mauve,1,1
+PMC8557374,GCA_001286745,output,tools_software,TblastX,1,1
+PMC8557374,GCA_001286745,output,use_cases,Partial reconstruction of plasmid pBsuJRS9â€¡ (F4) from identified contigs,1,1
+PMC8557374,GCA_001286745,output,use_cases,TblastX search against the assembly to identify contigs containing genes sharing similarity with plasmid pLS20,1,0
+PMC8557374,GCA_001286845,gs,data_accessed,TRUE,2,0
+PMC8557374,GCA_001286845,gs,tools_software,BlastN,2,-1
+PMC8557374,GCA_001286845,gs,tools_software,Mauve,2,0
+PMC8557374,GCA_001286845,gs,tools_software,TblastX,2,0
+PMC8557374,GCA_001286845,gs,use_cases,The assembled genome of Bacillus subtilis JRS2 (GCA_001286845) was returned as a result of a BLASTN against the NCBI RefSeq genome database and used to partially reconstruct a novel plasmid labeled pBsuJRS2â€¡.,2,0
+PMC8557374,GCA_001286845,output,data_accessed,TRUE,2,1
+PMC8557374,GCA_001286845,output,tools_software,Mauve,2,1
+PMC8557374,GCA_001286845,output,tools_software,TblastX,2,1
+PMC8557374,GCA_001286845,output,use_cases,contig alignment against a reference plasmid using Mauve software,2,0
+PMC8557374,GCA_001286845,output,use_cases,contig identification using TblastX search,2,0
+PMC8557374,GCA_001286845,output,use_cases,plasmid reconstruction from multiple contigs,2,1
+PMC8557374,GCA_001587195,gs,data_accessed,TRUE,1,0
+PMC8557374,GCA_001587195,gs,tools_software,BlastN,1,-1
+PMC8557374,GCA_001587195,gs,tools_software,Mauve,1,0
+PMC8557374,GCA_001587195,gs,tools_software,TblastX,1,0
+PMC8557374,GCA_001587195,gs,use_cases,The assembled genome of Bacillus licheniformis B4092 (GCA_001587195) was returned as a result of a BLASTN against the NCBI RefSeq genome database and used to partially reconstruct a novel plasmid labeled pBliB4092â€¡.,1,0
+PMC8557374,GCA_001587195,output,data_accessed,TRUE,1,1
+PMC8557374,GCA_001587195,output,tools_software,Mauve,1,1
+PMC8557374,GCA_001587195,output,tools_software,TblastX,1,1
+PMC8557374,GCA_001587195,output,use_cases,alignment of contigs against reference plasmid using Mauve software,1,0
+PMC8557374,GCA_001587195,output,use_cases,identification of plasmid-related contigs using TblastX search,1,0
+PMC8557374,GCA_001587195,output,use_cases,reconstruction of plasmid pBliB4092â€¡ from 8 contigs,1,1
+PMC8557374,GCA_001591925,gs,data_accessed,TRUE,2,0
+PMC8557374,GCA_001591925,gs,tools_software,BlastN,2,-1
+PMC8557374,GCA_001591925,gs,tools_software,Mauve,2,0
+PMC8557374,GCA_001591925,gs,tools_software,TblastX,2,0
+PMC8557374,GCA_001591925,gs,use_cases,The assembled genome of Bacillus atrophaeus NBRC 15539 (GCA_001591925) was returned as a result of a BLASTN against the NCBI RefSeq genome database and used to partially reconstruct a novel plasmid labeled pBatNBRC15539â€ .,2,0
+PMC8557374,GCA_001591925,output,data_accessed,TRUE,2,1
+PMC8557374,GCA_001591925,output,tools_software,Mauve,2,1
+PMC8557374,GCA_001591925,output,tools_software,TblastX,2,1
+PMC8557374,GCA_001591925,output,use_cases,alignment against a reference plasmid using Mauve,2,0
+PMC8557374,GCA_001591925,output,use_cases,contig identification,2,0
+PMC8557374,GCA_001591925,output,use_cases,plasmid sequence reconstruction,2,1
+PMC8557374,GCA_001591925,output,use_cases,TblastX search,2,0
+PMC8557374,GCF_001286965,gs,data_accessed,TRUE,1,0
+PMC8557374,GCF_001286965,gs,tools_software,BlastN,1,-1
+PMC8557374,GCF_001286965,gs,tools_software,Mauve,1,-1
+PMC8557374,GCF_001286965,gs,tools_software,TblastX,1,0
+PMC8557374,GCF_001286965,gs,use_cases,The assembled genome of Bacillus amyloliquefaciens JRS8 (GCF_001286965) was returned as a result of a BLASTN against the NCBI RefSeq genome database and used to partially reconstruct a novel plasmid labeled pBamJRS8â€¡.,1,0
+PMC8557374,GCF_001286965,output,data_accessed,TRUE,1,1
+PMC8557374,GCF_001286965,output,tools_software,TblastX,1,1
+PMC8557374,GCF_001286965,output,use_cases,Reconstruction of plasmid pBamJRS8â€¡ (F8) from identified contigs,1,1
+PMC8557374,GCF_001286965,output,use_cases,TblastX search against the sequences of the NGS project to identify contigs containing genes sharing similarity with the query plasmids,1,0
+PMC8557374,GCF_001584335,gs,data_accessed,TRUE,2,0
+PMC8557374,GCF_001584335,gs,tools_software,BlastN,2,-1
+PMC8557374,GCF_001584335,gs,tools_software,Mauve,2,0
+PMC8557374,GCF_001584335,gs,tools_software,TblastX,2,0
+PMC8557374,GCF_001584335,gs,use_cases,The assembled genome of Bacillus atrophaeus NRRL NRS 213 (GCF_001584335) was returned as a result of a BLASTN against the NCBI RefSeq genome database and used to partially reconstruct a novel plasmid labeled pBatNRS213â€ .,2,0
+PMC8557374,GCF_001584335,gs,use_cases,The reconstructed plasmid pBatNRS213â€  from the assembled genome of Bacillus atrophaeus NRRL NRS 213 (GCF_001584335) was subjected to further sequencing and annotation to determine if the original contig represents the complete plasmid pBatNRS213 sequence.,2,-1
+PMC8557374,GCF_001584335,output,data_accessed,TRUE,2,1
+PMC8557374,GCF_001584335,output,tools_software,Mauve,2,1
+PMC8557374,GCF_001584335,output,tools_software,TblastX,2,1
+PMC8557374,GCF_001584335,output,use_cases,Assembly of contigs to reconstruct a plasmid sequence,2,1
+PMC8557374,GCF_001584335,output,use_cases,TblastX search against contigs to identify plasmid-related sequences,2,0
+PMC8557374,GCF_001584335,output,use_cases,Verification of contig correspondence to a plasmid sequence using Mauve alignment,2,0
+PMC8920927,CP011526,gs,data_accessed,FALSE,2,0
+PMC8920927,CP011526,output,data_accessed,FALSE,2,1
+PMC8920927,CP017183,gs,data_accessed,FALSE,1,0
+PMC8920927,CP017183,output,data_accessed,FALSE,1,1
+PMC8920927,CU928158,gs,data_accessed,FALSE,2,0
+PMC8920927,CU928158,output,data_accessed,FALSE,2,1
+PMC9064559,NC_002516,gs,data_accessed,TRUE,1,0
+PMC9064559,NC_002516,gs,tools_software,BLAST,1,0
+PMC9064559,NC_002516,gs,tools_software,MEGA X,1,-1
+PMC9064559,NC_002516,gs,use_cases,The genome of Pseudomonas aeruginosa PAO1 (NC_002516) was used in phylogenetic analyses of the 16S and therapeutic genes of closely Pseudomonas aeruginosa strains.,1,-1
+PMC9064559,NC_002516,gs,use_cases,The genome of Pseudomonas aeruginosa PAO1 (NC_002516) was used to design PCR primers from known therapeutic enzymes.,1,0
+PMC9064559,NC_002516,output,data_accessed,TRUE,1,1
+PMC9064559,NC_002516,output,tools_software,BLAST,1,1
+PMC9064559,NC_002516,output,use_cases,Retrieving gene-specific primers for therapeutic enzymes from the gene cluster of Pseudomonas aeruginosa PAO1,1,1
+PMC9308332,AE004439,gs,data_accessed,TRUE,2,0
+PMC9308332,AE004439,gs,tools_software,BLAST (version 2.4.0),2,0
+PMC9308332,AE004439,gs,tools_software,BRIG (version 0.95-dist),2,-1
+PMC9308332,AE004439,gs,tools_software,Easyfig (version 2.2.5),2,-1
+PMC9308332,AE004439,gs,tools_software,Mauve (version 2.4.0),2,0
+PMC9308332,AE004439,gs,tools_software,MEGA 5.0,2,-1
+PMC9308332,AE004439,gs,use_cases,Housekeeping genes from the complete genome of Pasteurella multocida Pm70 were used in a neighbour-joining phylogenetic tree to determine the presence of a common ancestor between P. multocida isolates and select a target strain for sequencing.,2,0
+PMC9308332,AE004439,gs,use_cases,The complete genome of strain Pm70 was used along with several other P. multocida genomes for a comparative analysis with the genome sequence of strain s4.,2,0
+PMC9308332,AE004439,output,data_accessed,TRUE,2,1
+PMC9308332,AE004439,output,tools_software,BLAST,2,1
+PMC9308332,AE004439,output,tools_software,Mauve,2,1
+PMC9308332,AE004439,output,use_cases,BLAST analysis to compare the genome of s4 with that of Pm70,2,0
+PMC9308332,AE004439,output,use_cases,Comparative analysis of the entire cap locus between s4 and Pm70,2,0
+PMC9308332,AE004439,output,use_cases,Comparative analysis of the LPS outer core biosynthetic genes between s4 and Pm70,2,0
+PMC9308332,AE004439,output,use_cases,Phylogenetic analysis to determine the relationship between s4 and Pm70,2,1
+PMC9308332,AE004439,output,use_cases,Whole genome comparison between isolate s4 and Pm70 using progressiveMauve alignment procedure on Mauve,2,1
+PMC9308332,BX470250,gs,data_accessed,TRUE,1,0
+PMC9308332,BX470250,gs,tools_software,MEGA 5.0,1,0
+PMC9308332,BX470250,gs,use_cases,Housekeeping genes from the complete genome of Bordetella bronchiseptica RB50 were used in a neighbour-joining phylogenetic tree to determine the presence of a common ancestor between P. multocida isolates and select a target strain for sequencing.,1,0
+PMC9308332,BX470250,output,data_accessed,TRUE,1,1
+PMC9308332,BX470250,output,tools_software,MEGA 5.0,1,1
+PMC9308332,BX470250,output,use_cases,neighbour-joining tree construction for phylogenetic analysis,1,1
+PMC9308332,CP003313,gs,data_accessed,TRUE,2,0
+PMC9308332,CP003313,gs,tools_software,BLAST (version 2.4.0),2,0
+PMC9308332,CP003313,gs,tools_software,BRIG (version 0.95-dist),2,0
+PMC9308332,CP003313,gs,tools_software,Easyfig (version 2.2.5),2,0
+PMC9308332,CP003313,gs,tools_software,Mauve (version 2.4.0),2,0
+PMC9308332,CP003313,gs,tools_software,MEGA 5.0,2,-1
+PMC9308332,CP003313,gs,use_cases,Housekeeping genes from the complete genome of Pasteurella multocida HN06 were used in a neighbour-joining phylogenetic tree to determine the presence of a common ancestor between P. multocida isolates and select a target strain for sequencing.,2,-1
+PMC9308332,CP003313,gs,use_cases,The complete genome of strain HN06 was used along with several other P. multocida genomes for a comparative analysis with the genome sequence of strain s4.,2,0
+PMC9308332,CP003313,output,data_accessed,TRUE,2,1
+PMC9308332,CP003313,output,tools_software,BLAST (version 2.4.0),2,1
+PMC9308332,CP003313,output,tools_software,BRIG (version 0.95-dist),2,1
+PMC9308332,CP003313,output,tools_software,Easyfig (version 2.2.5),2,1
+PMC9308332,CP003313,output,tools_software,Mauve (version 2.4.0),2,1
+PMC9308332,CP003313,output,use_cases,"Whole genome comparison between the isolate s4 and other Pasteurella multocida strains, including HN06",2,1
+PMC9308332,CP020345,gs,data_accessed,TRUE,1,0
+PMC9308332,CP020345,gs,tools_software,BLAST (version 2.4.0),1,0
+PMC9308332,CP020345,gs,tools_software,BRIG (version 0.95-dist),1,-1
+PMC9308332,CP020345,gs,tools_software,Easyfig (version 2.2.5),1,-1
+PMC9308332,CP020345,gs,tools_software,Mauve (version 2.4.0),1,0
+PMC9308332,CP020345,gs,tools_software,MEGA 5.0,1,-1
+PMC9308332,CP020345,gs,use_cases,Housekeeping genes from the complete genome of Pasteurella multocida CIRMBP-0884 were used in a neighbour-joining phylogenetic tree to determine the presence of a common ancestor between P. multocida isolates and select a target strain for sequencing.,1,-1
+PMC9308332,CP020345,gs,use_cases,The complete genome of strain CIRMBP-0884 was used along with several other P. multocida genomes for a comparative analysis with the genome sequence of strain s4.,1,0
+PMC9308332,CP020345,output,data_accessed,TRUE,1,1
+PMC9308332,CP020345,output,tools_software,BLAST,1,1
+PMC9308332,CP020345,output,tools_software,Mauve,1,1
+PMC9308332,CP020345,output,use_cases,BLAST analysis to determine genetic similarities and differences between the isolate s4 and other known strains of the species,1,1
+PMC9308332,CP020345,output,use_cases,Whole genome comparison between the isolate s4 and other Pasteurella multocida strains using progressiveMauve alignment procedure on Mauve,1,0
+PMC9308332,CP020347,gs,data_accessed,TRUE,2,0
+PMC9308332,CP020347,gs,tools_software,BLAST (version 2.4.0),2,0
+PMC9308332,CP020347,gs,tools_software,BRIG (version 0.95-dist),2,-1
+PMC9308332,CP020347,gs,tools_software,Easyfig (version 2.2.5),2,-1
+PMC9308332,CP020347,gs,tools_software,Mauve (version 2.4.0),2,0
+PMC9308332,CP020347,gs,tools_software,MEGA 5.0,2,-1
+PMC9308332,CP020347,gs,use_cases,Housekeeping genes from the complete genome of Pasteurella multocida CIRMBP-0873 were used in a neighbour-joining phylogenetic tree to determine the presence of a common ancestor between P. multocida isolates and select a target strain for sequencing.,2,-1
+PMC9308332,CP020347,gs,use_cases,The complete genome of strain CIRMBP-0873 was used along with several other P. multocida genomes for a comparative analysis with the genome sequence of strain s4.,2,0
+PMC9308332,CP020347,output,data_accessed,TRUE,2,1
+PMC9308332,CP020347,output,tools_software,BLAST,2,1
+PMC9308332,CP020347,output,tools_software,Mauve,2,1
+PMC9308332,CP020347,output,use_cases,BLAST analysis to compare the genome of s4 with that of CIRMBP-0873 at nucleotide level,2,1
+PMC9308332,CP020347,output,use_cases,Comparative analysis of the entire cap locus between s4 and CIRMBP-0873,2,0
+PMC9308332,CP020347,output,use_cases,Comparative analysis of the LPS outer core biosynthetic genes between s4 and CIRMBP-0873,2,0
+PMC9308332,CP020347,output,use_cases,Whole genome comparison between the isolate s4 and CIRMBP-0873 using progressiveMauve alignment procedure on Mauve,2,0
+PMC9310698,AL645882,gs,data_accessed,TRUE,1,0
+PMC9310698,AL645882,gs,tools_software,antiSmash,1,0
+PMC9310698,AL645882,gs,use_cases,"Pseudonocardia autotrophica was found to encode secondary metabolites similar to the non-ribosomally synthesized peptide (NRP) coelibactin, which is encoded by the genome (AL645882) of Streptomyces coelicolor A3(2).",1,0
+PMC9310698,AL645882,output,data_accessed,TRUE,1,1
+PMC9310698,AL645882,output,tools_software,antiSmash,1,1
+PMC9310698,AL645882,output,use_cases,comparative analysis of secondary metabolite gene-clusters using the antiSmash platform,1,1
+PMC9310698,AP008957,gs,data_accessed,TRUE,2,0
+PMC9310698,AP008957,gs,tools_software,antiSmash,2,0
+PMC9310698,AP008957,gs,use_cases,"Pseudonocardia autotrophica was found to encode secondary metabolites similar to the non-ribosomally synthesized peptide (NRP) heterobactin, which is encoded by the genome (AP008957) of Rhodococcus erythropolis PR4.",2,0
+PMC9310698,AP008957,output,data_accessed,TRUE,2,1
+PMC9310698,AP008957,output,tools_software,antiSmash,2,1
+PMC9310698,AP008957,output,tools_software,BLAST,2,-1
+PMC9310698,AP008957,output,use_cases,BLAST search for similarity to NRPs heterobactin,2,1
+PMC9310698,AP009493,gs,data_accessed,TRUE,1,0
+PMC9310698,AP009493,gs,tools_software,antiSmash,1,0
+PMC9310698,AP009493,gs,use_cases,Pseudonocardia autotrophica was found to encode secondary metabolites similar to an alkylresorcinol polyketide encoded by the genome (AP009493) of Streptomyces griseus NBRC 13350.,1,0
+PMC9310698,AP009493,output,data_accessed,TRUE,1,1
+PMC9310698,AP009493,output,tools_software,antiSmash,1,1
+PMC9310698,AP009493,output,use_cases,comparative analysis of secondary metabolite gene-clusters using the antiSmash platform,1,1

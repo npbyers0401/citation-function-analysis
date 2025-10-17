@@ -1,0 +1,1 @@
+{"data_accessed": "True", "tools_software": [{"tool": "prokka v1.14.6"}], "use_cases": [{"case": "Genomic data under GOLD study Gs0103597 was included a bulk download of metagenome-annotated genomes, which was then further annotated for coding regions and function."}]}

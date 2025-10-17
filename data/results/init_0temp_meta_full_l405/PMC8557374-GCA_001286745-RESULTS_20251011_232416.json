@@ -1,0 +1,1 @@
+{"data_accessed": "True", "use_cases": "[\"TblastX search against the assembly to identify contigs containing genes sharing similarity with plasmid pLS20\", \"Partial reconstruction of plasmid pBsuJRS9\u2021 (F4) from identified contigs\"]", "tools_software": "[\"TblastX\", \"Mauve\"]", "target_key": "GCA_001286745", "pmcid": "PMC8557374"}

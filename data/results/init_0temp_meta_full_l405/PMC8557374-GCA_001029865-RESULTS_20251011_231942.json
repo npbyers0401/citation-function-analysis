@@ -1,0 +1,1 @@
+{"data_accessed": "True", "use_cases": "[\"TblastX search against the NGS project to identify plasmid-related contigs\", \"Assembly and reconstruction of plasmid pBalRIT380 from multiple contigs\", \"Annotation of plasmid pBalRIT380 using the PROKKA tool\"]", "tools_software": "[\"TblastX\", \"PROKKA\"]", "target_key": "GCA_001029865", "pmcid": "PMC8557374"}

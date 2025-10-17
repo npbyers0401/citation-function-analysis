@@ -1,0 +1,1 @@
+{"data_accessed": "True", "use_cases": "[\"genome assembly\", \"genome annotation\", \"submission to GenBank for public access and reuse\"]", "tools_software": "[\"SMRT Analysis 2.3.0\", \"HGAP2\", \"Quiver consensus algorithm\", \"NUCmer 3.1\", \"MUMmer 3.5\", \"NCBI Prokaryotic Genome Annotation Pipeline 4.10\"]", "target_key": "CP047236", "pmcid": "PMC7067950"}

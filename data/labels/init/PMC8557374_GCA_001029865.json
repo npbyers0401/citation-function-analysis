@@ -1,0 +1,1 @@
+{"data_accessed": "True", "use_cases": [{"case": "The assembled genome of Bacillus altitudinis RIT380 (GCA_001029865) was returned as a result of a BLASTN against the NCBI RefSeq genome database and used to partially reconstruct a novel plasmid labeled pBalRIT38‡."}], "tools_software": [{"tool": "BlastN"}, {"tool": "TblastX"}, {"tool": "Mauve"}]}
