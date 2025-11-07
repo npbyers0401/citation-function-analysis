@@ -1,6 +1,6 @@
 # Citation Function Analysis
 
-This repository contains code and data supporting the conclusions made in Byers et. al (CITATION).
+This repository contains code and data supporting the conclusions made in Byers et. al (2025; preprint: [10.48550/arXiv.2511.02936](https://doi.org/10.48550/arXiv.2511.02936)).
 
 ## Requirements / Setup
 
